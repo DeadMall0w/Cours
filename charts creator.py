@@ -33,6 +33,7 @@ def generate_chart_code_from_f(name, interval_start, interval_end, step=1):
     Génère le code pour une courbe représentant une fonction donnée sur un intervalle donné.
     
     Args:
+        name (str): Le nom de la fonction (sera utilisé comme titre du graphique).
         interval_start (int): La valeur de départ de l'intervalle pour x.
         interval_end (int): La valeur de fin de l'intervalle pour x.
         step (int, optional): L'incrément pour générer les valeurs de x. Par défaut, 1.
@@ -52,7 +53,7 @@ series:
 """
     return chart_code
 
-s = str(input("Use eval function or manually created function? yes or no: ")).lower()
+s = str(input("Use eval function or custom function? yes or no: ")).lower()
 if s == "yes" or s == "y":
     function_name = str(input("Enter function name (x**2, x, ...): "))
     interval_start = int(input("Enter interval start: "))
