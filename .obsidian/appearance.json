@@ -1,7 +1,8 @@
 {
   "accentColor": "#b79bf8",
-  "cssTheme": "Typomagical",
+  "cssTheme": "GitHub Theme",
   "translucency": false,
   "baseFontSize": 17,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }
