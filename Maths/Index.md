@@ -1,6 +1,4 @@
 # A faire
-## Date
- Terminer convexité, dérivé tangente, primitives et équa diff pour jeudi 20
 ## Liste
 - [ ] [[Probabilité]]
 	- [ ] [[Conditionnelle]]

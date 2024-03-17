@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test charts.md",
+                "file": "Maths/Maths doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test charts.md",
+                "file": "Maths/Maths doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test charts.md",
+                "file": "Maths/Maths doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test charts.md"
+                "file": "Maths/Maths doc.md"
               }
             }
           },
@@ -177,6 +177,14 @@
   },
   "active": "f3b9dc1cb12e49e2",
   "lastOpenFiles": [
+    "Maths/Exemples",
+    "Maths/Nouveau dossier",
+    "Maths/Index.md",
+    "Maths/LaTeX.md",
+    "Maths/Maths doc.md",
+    "Maths/Pasted image 20231108210616.png",
+    "Maths/Maths droite paramétrique.md",
+    "Test charts.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
     "Philo/Page 27 - 39.md",
@@ -208,20 +216,12 @@
     "Maths/Cours/Produit scalaire.md",
     "Maths/Cours/Radian.md",
     "Maths/Cours/puissance.md",
-    "Maths/Cours/Probabilité.md",
-    "Maths/Cours/Primitives.md",
-    "Maths/Cours/Limite.md",
-    "Maths/Cours/Logarithme népérien (Ln).md",
-    "Maths/Cours/Géométrie.md",
-    "Maths/Cours/limite de suite.md",
-    "Maths/Pasted image 20231108210616.png",
     "Maths/DM",
     "Maths/Cours",
     "Maths",
     "SI Euro/Mme Malfoy",
     "SI Euro/M. Demarthe",
     "SI Euro",
-    "charts creator.py",
     "Untitled.canvas",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas",
