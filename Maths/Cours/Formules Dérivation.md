@@ -72,12 +72,3 @@ Faire les formes de dérivée plus complexe, u/v, ...
 
 
 # FAIT
-
-
-# Résumé
-Bonne journée, meme si grandement affecté par la fatigue et la mal de crâne. Je n'ai pas eu le temps de recopier un exo en maths et pas eu bcp de temps de pour réviser les produits scalaire pour l'interro de demain, faut vraiment que je révise demain matin, sinon ca va être chaud.
-Pour demain j'aimerai réussir mes 2 interros, je risque de rentrer un peu tard (16h-17h), je serai en vacances, ca serait bien que je me fasse un planing pour les vacances, que je dois vraiment respecter. J'aimerais aussi pouvoir jouer a Super Meat Boy, si j'ai le temps et coder un peu pour mon jeu.
-Il faut que je vois si c'est possible d'afficher des trucs de la veille (genre les trucs pour demain), grâce a du embed.
-
-
-#Daily

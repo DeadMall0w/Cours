@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths doc.md",
+                "file": "Maths/Cours/Formules Dérivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths doc.md",
+                "file": "Maths/Cours/Formules Dérivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths doc.md",
+                "file": "Maths/Cours/Formules Dérivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths doc.md"
+                "file": "Maths/Cours/Formules Dérivation.md"
               }
             }
           },
@@ -175,13 +175,25 @@
       "cmdr:👷 Add Project": false
     }
   },
-  "active": "f3b9dc1cb12e49e2",
+  "active": "27e872803627c9b5",
   "lastOpenFiles": [
+    "Maths/Cours/Etude de fonction.md",
+    "Maths/Cours/Untitled.md",
+    "Maths/Cours/Totale.md",
+    "Maths/Cours/Théorème Gendarme.md",
+    "Maths/Cours/Théorème de comparaison.md",
+    "Maths/Cours/Arithmétique.md",
+    "README.md",
+    "SI Euro/Liste Expose.md",
+    "SI Euro/Mme Malfoy/Windturbines x pv system.md",
+    "SI Euro/Mme Malfoy/Vahana x solar Impulse.md",
+    "SI Euro/M. Demarthe/Hybrid-Electric plane.md",
+    "SI Euro/M. Demarthe/Exposé a faire.md",
+    "Maths/Maths doc.md",
     "Maths/Exemples",
     "Maths/Nouveau dossier",
     "Maths/Index.md",
     "Maths/LaTeX.md",
-    "Maths/Maths doc.md",
     "Maths/Pasted image 20231108210616.png",
     "Maths/Maths droite paramétrique.md",
     "Test charts.md",
@@ -202,26 +214,14 @@
     "NSI/Arbre Binaire.md",
     "NSI",
     "Maths/Cours/Valeurs.md",
-    "Maths/Cours/Untitled.md",
     "Maths/DM/DM de maths 6.md",
     "Maths/DM/Tableau de variation.png",
     "Maths/Cours/vérifier une dérivée.md",
-    "Maths/Cours/Valeurs continues.md",
-    "Maths/Cours/Vecteurs.md",
-    "Maths/Cours/Totale.md",
-    "Maths/Cours/Théorème de comparaison.md",
-    "Maths/Cours/Tangente.md",
-    "Maths/Cours/Théorème Gendarme.md",
-    "Maths/Cours/Suite.md",
-    "Maths/Cours/Produit scalaire.md",
-    "Maths/Cours/Radian.md",
-    "Maths/Cours/puissance.md",
     "Maths/DM",
     "Maths/Cours",
     "Maths",
     "SI Euro/Mme Malfoy",
     "SI Euro/M. Demarthe",
-    "SI Euro",
     "Untitled.canvas",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas",
