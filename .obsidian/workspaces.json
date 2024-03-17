@@ -1,0 +1,247 @@
+{
+  "workspaces": {
+    "Normal": {
+      "main": {
+        "id": "4416fecd33829640",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4152f9edeba6ab0",
+            "type": "tabs",
+            "dimension": 34.36507936507937,
+            "children": [
+              {
+                "id": "2d467e375f4f8382",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian/My snippets.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "af48e5cfb4cd8909",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Informatique/Projets/Mon CV et Lettre de motivation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "bede0662ca684300",
+            "type": "tabs",
+            "dimension": 65.63492063492063,
+            "children": [
+              {
+                "id": "1d72b8263b35e3fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Travail/Etudes/Cours/Philo/Page 27 - 39.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0b9efaf078d8c174",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2024-02-21.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c07a6b14e925ad33",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Project Board.md"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b36cd99c6404480e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2024-02-20.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "466e9cfb2f33d3f2",
+        "type": "split",
+        "children": [
+          {
+            "id": "c12bb19c40c23d3d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f3b9dc1cb12e49e2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c57d1c9a5d3a016e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "085b2b2572290779",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "6674aa4637ef02a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "9f5b44b48a910b7c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c0d3aa5557c32f0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily/2024-02-21.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "51463a6fd9e4d5a0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daily/2024-02-21.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c1ecc03434ae30f9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f10b3333b522cd88",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Daily/2024-02-21.md"
+                  }
+                }
+              },
+              {
+                "id": "564cf46c7a004021",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "markdown-importer:Open format converter": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "homepage:Open homepage": false,
+          "canvas:Create new canvas": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "templates:Insert template": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "graph:Open graph view": false,
+          "cmdr:Add Kanban": false,
+          "cmdr:🎯 Add Goal": false,
+          "cmdr:👷 Add Project": false,
+          "remotely-save:Remotely Save": false
+        }
+      },
+      "active": "0b9efaf078d8c174"
+    }
+  },
+  "active": "Normal"
+}

@@ -1,0 +1,390 @@
+{
+  "choices": [
+    {
+      "id": "eb5ae12f-63ec-48cd-a972-78af6f46eba8",
+      "name": "👷 Add Project",
+      "type": "Macro",
+      "command": true,
+      "macroId": "255de4e6-6aa2-4a54-a45c-1315ffa46330"
+    },
+    {
+      "id": "b448b782-6fdf-44e2-92b5-eb82c3ad70b0",
+      "name": "🎯 Add Goal",
+      "type": "Macro",
+      "command": true,
+      "macroId": "9840504d-7801-4cdb-ba06-b68c277ffdb0"
+    },
+    {
+      "id": "568e2c32-f2e6-4eb3-8ce9-250ef7ad0b35",
+      "name": "🎯 Add Auto Tracking Goal",
+      "type": "Macro",
+      "command": true,
+      "macroId": "38e8764d-6507-46d8-88b1-1b4a6bf0590a"
+    },
+    {
+      "id": "5b3f5fe7-fe67-447c-b350-f5d27aadffb3",
+      "name": "Add Movie",
+      "type": "Macro",
+      "command": false,
+      "macroId": "dc226b4b-ac23-4cb6-af1f-b9dc4014548a"
+    },
+    {
+      "id": "96143e5a-16e6-435b-9f87-43f4c7c86eda",
+      "name": "Add Kanban",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/project_Kanban_template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "projects/Kanbans"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "Add Goal",
+      "id": "9840504d-7801-4cdb-ba06-b68c277ffdb0",
+      "commands": [
+        {
+          "name": "Create Goal Note",
+          "type": "NestedChoice",
+          "id": "b876d7c3-6081-446b-ae47-ac57bc1fef2e",
+          "choice": {
+            "id": "b78e3df9-1e5c-49ef-bf93-55d43d240f7f",
+            "name": "Create Goal Note",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/goal_item_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE}} - {{VALUE:Goal}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "goals"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing"
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d66097ad-e405-408c-b4c3-1bbc4b4415d1",
+          "time": 200
+        },
+        {
+          "name": "Send to Kanban Board",
+          "type": "NestedChoice",
+          "id": "a8c93f99-0f76-4d95-94f3-a7d128803f34",
+          "choice": {
+            "id": "459ac3e4-7837-4203-b2ac-b4e1987566f6",
+            "name": "Send to Kanban Board",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Goals.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[{{DATE}} - {{VALUE:Goal}}|{{VALUE:Goal}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## {{VALUE:Professional,Physical,Knowledge,Wealth,Life}}",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add Project",
+      "id": "255de4e6-6aa2-4a54-a45c-1315ffa46330",
+      "commands": [
+        {
+          "name": "Create Project Note",
+          "type": "NestedChoice",
+          "id": "b38830f4-015e-47f0-9412-43daba8b1b14",
+          "choice": {
+            "id": "50d920a2-5eb2-47c0-b74b-f1a65f705645",
+            "name": "Create Project Note",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/project_item_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "; {{VALUE:⚒ Add Project}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "projects"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing"
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "9f552b82-1e45-4c35-b3ce-9e1b1b2a9fa6",
+          "time": 200
+        },
+        {
+          "name": "Capture to project board",
+          "type": "NestedChoice",
+          "id": "8c9e6cf5-e2dd-4d3e-96c2-945bd2d799fe",
+          "choice": {
+            "id": "89caa611-0327-469b-bc2a-6d4456335e7a",
+            "name": "Capture to project board",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Project Board.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[; {{VALUE:⚒ Add Project}}|{{VALUE:⚒ Add Project}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## Todo",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add AutoTracking Goal",
+      "id": "38e8764d-6507-46d8-88b1-1b4a6bf0590a",
+      "commands": [
+        {
+          "name": "Create AutoTracking Goal Note",
+          "type": "NestedChoice",
+          "id": "9c8538c0-b993-4dfa-b689-8a523ef6a9d1",
+          "choice": {
+            "id": "07964ef6-d09c-48ab-b254-6091cca92546",
+            "name": "Create AutoTracking Goal Note",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/autotracking_goal_item_template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE}} - {{VALUE:Goal}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "goals"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "905a4d34-0655-41c5-9085-3204b1305df1",
+          "time": 200
+        },
+        {
+          "name": "Capture to Kanban",
+          "type": "NestedChoice",
+          "id": "0bc411b3-6f40-45e0-8cab-a6166c91f5f4",
+          "choice": {
+            "id": "1c33260d-a886-4eb8-a264-1178a8e12017",
+            "name": "Capture to Kanban",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Goals.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[{{DATE}} - {{VALUE:Goal}}|{{VALUE:Goal}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## {{VALUE:Professional,Physical,Knowledge,Wealth,Life}}",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add Movie",
+      "id": "dc226b4b-ac23-4cb6-af1f-b9dc4014548a",
+      "commands": [
+        {
+          "name": "movies",
+          "type": "UserScript",
+          "id": "7da8358e-f86d-44ec-812e-a7a2fbd9e703",
+          "path": "movies.js",
+          "settings": {
+            "OMDb API Key": ""
+          }
+        },
+        {
+          "name": "Add Movie Note",
+          "type": "NestedChoice",
+          "id": "7a8c1568-6539-45c3-b09e-0352b6c54579",
+          "choice": {
+            "id": "b8bec21e-6df3-44f0-adf9-e761c110e868",
+            "name": "Add Movie Note",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/movie template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{value:fileName}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": false,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "ai prompts",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

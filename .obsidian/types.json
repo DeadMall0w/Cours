@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Pompe": "text",
+    "completed": "text",
+    "Bing": "checkbox",
+    "Duolingo": "checkbox"
+  }
+}

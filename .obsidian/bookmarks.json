@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1708174488314,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1708174477354,
+          "path": "Project Board.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708174477354,
+          "path": "projects/Kanbans/Project to code.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708174616036,
+          "path": "Goals.md"
+        }
+      ],
+      "title": "Always"
+    },
+    {
+      "type": "group",
+      "ctime": 1708174752495,
+      "items": [],
+      "title": "Maths"
+    },
+    {
+      "type": "group",
+      "ctime": 1708174758096,
+      "items": [],
+      "title": "Code"
+    },
+    {
+      "type": "group",
+      "ctime": 1708175845657,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1708175963945,
+          "path": "Templates/Track_Template.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708179468830,
+          "path": "Tracker/2024-02/2024-02-Sport.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708179482376,
+          "path": "Tracker/2024-02/2024-02-Pompe.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1708179491282,
+          "path": "Tracker/2024-02/2024-02-Temps.md"
+        }
+      ],
+      "title": "Trackers"
+    },
+    {
+      "type": "group",
+      "ctime": 1708176013280,
+      "items": [],
+      "title": "Obsidian"
+    }
+  ]
+}
