@@ -1,7 +1,7 @@
 # A faire
 ## Liste
 - [ ] [[Probabilité]]
-	- [ ] [[Conditionnelle]]
+	- [ ] [[Probabilité conditionnelle]]
 	- [ ] [[Totale]]
 	- [ ] [[Binomiale]]
 - [ ] [[Dénombrement]]
@@ -19,10 +19,11 @@
 	- [ ] [[Vecteurs]]
 	- [ ] [[Droite paramétrique ]]
 	- [ ] [[Produit scalaire]]
+	- [ ] [[Equation cartesienne de plan]]
 - [ ] [[Suite ]]
-	- [ ] [[Arithmétique]]
+	- [ ] [[Suite arithmétique]]
 	- [ ] [[Géométrique]]
-	- [ ] [[Arithmético-Géométrique]]
+	- [ ] [[Suite arithmético-Géométrique]]
 	- [ ] [[limite de suite]]
 	- [ ] [[Théorème Gendarme]]
 	- [ ] [[Théorème de comparaison]]
