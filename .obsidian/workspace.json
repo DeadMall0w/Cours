@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Charts.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Charts.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Charts.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Charts.md"
+                "file": "Test.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +175,12 @@
       "cmdr:👷 Add Project": false
     }
   },
-  "active": "f3b9dc1cb12e49e2",
+  "active": "27e872803627c9b5",
   "lastOpenFiles": [
     "README.md",
-    "Test Charts.md",
+    "Test.md",
+    "charts creator.py",
+    "Nouveau document texte.txt",
     "Coucou.md",
     "Daily/2024-03/2024-03-17.md",
     "Connaissance/Apprentissage TODO.md",
@@ -201,7 +204,6 @@
     "couc.md",
     "Draft/Txt Sant Valentin.md",
     "Informatique/Jeux/Concours de prog lycée.md",
-    "Informatique/Portfolio.md",
     "Tracker/2024-03",
     "Tracker/2024-02 - Copie",
     "Untitled.canvas",
@@ -211,8 +213,6 @@
     "Connaissance/Films Series",
     "Connaissance/Pays",
     "Connaissance/Evenements historiques",
-    "Connaissance/Langages de programmation",
-    "Connaissance/Entreprises",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas",
     "Images/Snapchat-497112413.jpg",
