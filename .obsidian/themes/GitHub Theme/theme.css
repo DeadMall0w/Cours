@@ -1219,11 +1219,6 @@ select:focus, .dropdown:focus {
     color: var(--text-normal);
 }
 
-h1 {
-    display: none;
-
-}
-
 .markdown-embed-title {
     display: none;
 }
