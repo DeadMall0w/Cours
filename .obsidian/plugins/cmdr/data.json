@@ -1,29 +1,10 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "quickadd:choice:96143e5a-16e6-435b-9f87-43f4c7c86eda",
-      "icon": "alert-circle",
-      "name": "Add Kanban",
-      "mode": "any"
-    },
-    {
-      "id": "quickadd:choice:b448b782-6fdf-44e2-92b5-eb82c3ad70b0",
-      "icon": "award",
-      "name": "🎯 Add Goal",
-      "mode": "any"
-    },
-    {
-      "id": "quickadd:choice:eb5ae12f-63ec-48cd-a972-78af6f46eba8",
-      "icon": "album",
-      "name": "👷 Add Project",
-      "mode": "any"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
