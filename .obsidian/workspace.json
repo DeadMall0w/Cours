@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifier si un point est sur un plan.md",
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifier si un point est sur un plan.md",
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verifier si un point est sur un plan.md"
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md"
               }
             }
           },
@@ -202,10 +202,11 @@
       "cmdr:👷 Add Project": false
     }
   },
-  "active": "bd3b1ebae6ecd20b",
+  "active": "4408f75c13a4da45",
   "lastOpenFiles": [
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "Verifier si un point est sur un plan.md",
+    "NSI/protocole internet.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
     "NSI/Pasted image 20231127174055.png",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne 1.md",
@@ -231,7 +232,6 @@
     "Maths/Cours/Etude foncion/Valeurs continues.md",
     "Maths/Cours/Etude foncion/Dérivation.md",
     "Maths/Cours/Etude foncion/Convexité.md",
-    "Maths/Cours/Probabilité conditionnelle.md",
     "Maths/Cours/Tips",
     "Maths/Cours/Nouveau dossier",
     "Maths/Cours/Formules",
