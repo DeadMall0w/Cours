@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Verifier si un point est sur un plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Verifier si un point est sur un plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Verifier si un point est sur un plan.md"
               }
             }
           },
@@ -202,10 +203,10 @@
       "cmdr:👷 Add Project": false
     }
   },
-  "active": "4408f75c13a4da45",
+  "active": "bd3b1ebae6ecd20b",
   "lastOpenFiles": [
-    "Verifier si un point est sur un plan.md",
     "Test.md",
+    "Verifier si un point est sur un plan.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/protocole internet.md",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
