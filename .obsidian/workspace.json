@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Protocole RIP.md",
+                "file": "NSI/Réseaux/Protocole RIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,13 +31,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Protocoles internet.md",
+                "file": "NSI/Réseaux/Réseaux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a07774c6a0d1b38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSI/Réseaux/Protocoles internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d9cffd0a13063d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSI/Réseaux/Protocoles internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/Protocole RIP.md",
+                "file": "NSI/Réseaux/Protocoles internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/Protocole RIP.md",
+                "file": "NSI/Réseaux/Protocoles internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/Protocole RIP.md"
+                "file": "NSI/Réseaux/Protocoles internet.md"
               }
             }
           },
@@ -177,13 +202,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dec65d5ea0da31d",
+  "active": "a07774c6a0d1b38e",
   "lastOpenFiles": [
-    "NSI/Protocoles internet.md",
+    "NSI/Réseaux/Protocole RIP.md",
+    "NSI/Réseaux/Protocoles internet.md",
+    "NSI/Réseaux/Réseaux.md",
+    "NSI/Réseaux/Protocole OSPF.md",
+    "NSI/Réseaux",
     "PDF/Protocoles internet.pdf",
     "PDF",
     "Nouveau dossier",
-    "NSI/Protocole RIP.md",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Arbre Binaire.md",
     "NSI/Images/Arbres binaire/Pasted image 20231127181743.png",
@@ -223,10 +251,8 @@
     "Maths/Cours/Exponetielle.md",
     "Maths/Cours/Probabilité/Dénombrement.md",
     "Maths/Cours/Etude fonction/Dérivation.md",
-    "Maths/Cours/Etude fonction/Valeurs continues.md",
     "Maths/Cours/Etude fonction",
     "Maths/Cours/Tips",
-    "Maths/Cours/Nouveau dossier",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]

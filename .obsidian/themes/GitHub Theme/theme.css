@@ -1218,3 +1218,13 @@ select:focus, .dropdown:focus {
     border-radius: 6px;
     color: var(--text-normal);
 }
+
+h1 {
+    display: none;
+
+}
+
+.markdown-embed-title {
+    display: none;
+}
+
