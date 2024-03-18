@@ -1,4 +1,4 @@
-# Définition
+# Définitions
 - Adresse IP : Une adresse IP est un **numéro unique** qui identifie un appareil connecté à un réseau. C'est comme une adresse postale pour les ordinateurs. ex : *172.168.5.2*
 - Adresse MAC : Identifiant unique attribué a chaque carte réseau, (un peu comme le numéros de série pour la carte réseau)
 - Réseaux locaux : Les réseaux locaux (LAN) sont des réseaux informatiques utilisés dans des **endroits proches** les uns des autres, comme une *maison* ou un *bureau*, pour que les appareils puissent se connecter et communiquer entre eux.

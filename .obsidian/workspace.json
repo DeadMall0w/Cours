@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Réseaux/Protocole RIP.md",
+                "file": "NSI/Réseaux/Protocole OSPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f00a5ba1be4f144d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSI/Conversion des Unités de Poids Informatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,19 +62,19 @@
             }
           },
           {
-            "id": "56d9cffd0a13063d",
+            "id": "3a439e9cefc46b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Réseaux/Protocoles internet.md",
+                "file": "NSI/Réseaux/Protocole RIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,16 +214,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3b9dc1cb12e49e2",
+  "active": "3a439e9cefc46b5c",
   "lastOpenFiles": [
+    "NSI/Réseaux/Protocole OSPF.md",
+    "NSI/Réseaux/Protocole RIP.md",
+    "NSI/Conversion des Unités de Poids Informatique.md",
+    "NSI/Réseaux/Réseaux.md",
+    "NSI/Réseaux/Protocoles internet.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png",
-    "NSI/Réseaux/Protocoles internet.md",
-    "NSI/Réseaux/Protocole RIP.md",
-    "NSI/Réseaux/Réseaux.md",
-    "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Réseaux",
     "PDF/Protocoles internet.pdf",
     "PDF",
@@ -229,13 +242,12 @@
     "NSI/Images/Nouveau dossier",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Images/Pasted image 20231127181743.png",
-    "NSI/Images/Pasted image 20231127180344.png",
     "NSI/Images/Protocoles internet",
     "NSI/Images",
     "NSI/Exemple de routage RIP.canvas",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
     "Test.md",
-    "Verifier si un point est sur un plan.md",
+    "Maths/Verifier si un point est sur un plan.md",
     "NSI/Coût d'un alogrithme.md",
     "SI Euro/M. Demarthe/Exposé a faire.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",

@@ -1,6 +1,6 @@
 # Définition
 RIP = Routing information Protocol
-Le protocole RIP est un protocole de routage utilisé dans les réseaux informatiques pour permettre aux routeurs de communiquer entre eux et de partager des informations sur les chemins les plus efficaces pour atteindre les réseaux de destination.
+Le protocole RIP est un protocole de routage utilisé **dans les réseaux informatiques** pour permettre aux routeurs de communiquer entre eux et de partager des informations sur les **chemins les plus efficaces** pour atteindre les réseaux de destination.
 # Fonctionnement
 Les routeurs qui utilisent RIP **envoient périodiquement** des mises à jour de routage à leurs voisins pour informer les autres routeurs des réseaux qu'ils peuvent atteindre et des coûts associés à ces routes. Chaque routeur utilise ces informations pour **construire une table de routage**, qui est utilisée pour prendre des décisions sur la manière de transférer les paquets de données.
 
@@ -10,7 +10,7 @@ De plus, le protocole RIP est **limité à 15 sauts** (on traverse au maximum 15
 # Utilisation
 [[Exemple de routage RIP.canvas|Exemple de routage RIP]]
 ![[Exemple de routage RIP.png]]
-On fait une recherche du plus court chemin (pas encore fait)
+On fait une recherche du plus court chemin, notamment avec l'[[Algorithme de Dijkstra]]
 ## Exemple avec le routeur A
 | Destination | Prochain routeur | Coût (nb saut) |
 | ----------- | ---------------- | -------------- |
@@ -20,4 +20,4 @@ On fait une recherche du plus court chemin (pas encore fait)
 | E           | F                | 2              |
 | F           | F                | 1              |
 | G           | F/C              | 3              |
-... pour les autres routeurs
+... Pour les autres routeurs
