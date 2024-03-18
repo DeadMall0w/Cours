@@ -69,3 +69,17 @@ bestFit: false
 bestFitTitle: undefined
 bestFitNumber: 0
 ```
+
+> [!note]
+> Notee
+
+> [!danger]
+> Attention !
+
+
+- [ ] test
+- [x] test1
+
+**gras**
+*italic*
+normal

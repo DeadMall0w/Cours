@@ -182,7 +182,7 @@ body {
     --blockquote-background-color: transparent;
     /* Bold */
     --bold-weight: var(--font-semibold);
-    --bold-color: inherit;
+    --bold-color: rgb(255, 151, 151);
     /* Borders */
     --border-width: 1px;
     /* Buttons */
@@ -405,7 +405,7 @@ body {
     --input-font-weight: var(--font-normal);
     --input-border-width: 1px;
     /* Italic */
-    --italic-color: inherit;
+    --italic-color: #7e7e7e;
     --italic-weight: inherit;
     /* Z-index */
     --layer-cover: 5;
