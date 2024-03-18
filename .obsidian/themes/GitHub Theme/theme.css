@@ -751,8 +751,8 @@ body {
     --h5-color-theme: var(--color-green);
     --h6-color-theme: var(--color-green);
     --background-modifier-hover-alpha: 0.12;
-    --color-btn-primary-bg: #238636;
-    --color-btn-primary-hover-bg: #2ea043;
+    --color-btn-primary-bg: #B69AF7;
+    --color-btn-primary-hover-bg: #6f44d3;
 
     /* Kanban colors */
     --kanban-background: var(--background-primary);

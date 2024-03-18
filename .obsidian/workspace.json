@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "22a8cd5176771b32",
@@ -126,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifier si un point est sur un plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifier si un point est sur un plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Verifier si un point est sur un plan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,7 +198,7 @@
       "cmdr:👷 Add Project": false
     }
   },
-  "active": "bd3b1ebae6ecd20b",
+  "active": "cdb731206951c885",
   "lastOpenFiles": [
     "Test.md",
     "Verifier si un point est sur un plan.md",
