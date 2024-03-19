@@ -1,8 +1,9 @@
-# Basique 
+# Basique python
 - [ ] [[Liste]]
 - [ ] [[Linked List]]
 - [ ] [[Binaire]]
 - [ ] [[Boucles]]
+- [ ] [[Gestion de bugs]]
 # Structure donnée
 - [ ] [[Dictionnaire]]
 - [ ] [[Liste]]
@@ -17,6 +18,16 @@
 - [ ] [[Algorithme de Dijkstra]]
 
 # Algorithmie
+## Recherche
+- [ ] [[Recherche textuelle]]
+- [ ] [[Dichotomie]]
+- [ ] [[Glouton]]
+- [ ] [[K nn]]
+
+## Tri
+- [ ] [[Tri]]
+- [ ] [[Tri par insertion]]
+- [ ] [[Tir par selection]]
 ## Récursivité
 - [ ] [[Récursivité]]
 
@@ -28,6 +39,8 @@
 - [ ] [[Diviser pour régner]]
 
 ## Programmation dynamique
+- [ ] [[Programmation dynamique]]
+
 
 # Réseau 
 - [ ] [[Réseaux]]
@@ -39,10 +52,25 @@
 # Base de donnée
 - [ ] [[SGBD]]
 - [ ] [[SQL]]
+- [ ] [[Traitement donnée en table]]
 
 
 # Architecture
 - [ ] [[Architecture d'un pc]]
+	- [ ] [[Modèle architecture séquentielle]]
+	- [ ] [[Portes logiques]]
 - [ ] [[Gestion des processus]]
 - [ ] [[Architecture Materiel]]
 - [ ] [[Composants de puce]]
+## Binaire 
+- [ ] [[Binaire]]
+- [ ] [[Nombre entier relatif]]
+- [ ] [[Nombre binaire signé]]
+- [ ] [[Texte en binaire]]
+	- [ ] [[Ascii]]
+- [ ] [[Conversion des Unités de Poids Informatique]]
+
+## Web
+- [ ] [[HTML]]
+- [ ] [[CSS]]
+- [ ] [[Javascript]]
