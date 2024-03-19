@@ -17,3 +17,15 @@ Adresse réseau : 192.168.1.0
 
 ## Trouver le nombre d'appareil connecté
 On peut trouver le nombre d'appareil maximum qu'on peut connecté un réseau en meme temps, a l'aide du masque de sous réseau
+
+Il faut compter combien de bit sont a 0.
+
+> [!note]
+> Les adresses ip 255.255.255.255 et 255.255.255.0 sont reservé, alors il faut enlever 2 au résultat.
+> 
+
+Ex : 255.255.255.0
+il y a 8 bit a 0, donc $2⁸-2$, soit $255-2 = 253$ réseaux possible.
+
+Ex : 255.255.0.0
+il y a 16 bit a 0, donc $2^{16}-2$ réseaux possible.

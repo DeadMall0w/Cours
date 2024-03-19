@@ -6,7 +6,6 @@
       {
         "id": "d6c5926675b7ddba",
         "type": "tabs",
-        "dimension": 59.13163335630599,
         "children": [
           {
             "id": "cdb731206951c885",
@@ -46,49 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "6413e796a7fca10c",
-        "type": "tabs",
-        "dimension": 40.86836664369401,
-        "children": [
-          {
-            "id": "5dec65d5ea0da31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSI/Réseaux/Protocole OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a439e9cefc46b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSI/Réseaux/Protocole RIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178e33c6bccb66c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSI/Réseaux/Réseaux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
