@@ -25,7 +25,7 @@ Il faut compter combien de bit sont a 0.
 > 
 
 Ex : 255.255.255.0
-il y a 8 bit a 0, donc $2⁸-2$, soit $255-2 = 253$ réseaux possible.
+il y a 8 bit a 0, donc $2⁸-2$, soit $256-2 = 254$ réseaux possible.
 
 Ex : 255.255.0.0
 il y a 16 bit a 0, donc $2^{16}-2$ réseaux possible.
