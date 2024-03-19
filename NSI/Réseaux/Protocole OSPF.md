@@ -1,7 +1,7 @@
 # Définition
 OSPF = Open Shortest Path First
-Le protocole RIP est un protocole de routage utilisé **dans les réseaux informatiques** pour permettre aux routeurs de communiquer entre eux et de partager des informations sur les **chemins les plus efficaces** pour atteindre les réseaux de destination.
-Contrairement au [[Protocole RIP]], ce protocole utilise les bandes passantes pour trouver les chemins les plus courts. Il vise a **prioritiser les connections où la bande passante est la plus forte**, permettant des chemins plus rapide qu'avec le [[Protocole RIP]].
+Le protocole OSPF est un protocole de routage utilisé **dans les réseaux informatiques** pour permettre aux routeurs de communiquer entre eux et de partager des informations sur les **chemins les plus efficaces** pour atteindre les réseaux de destination.
+Contrairement au [[Protocole RIP]], ce protocole utilise les bandes passantes pour trouver les chemins les plus courts. Il vise a **priotiser les connections où la bande passante est la plus forte**, permettant des chemins plus rapide qu'avec le [[Protocole RIP]].
 
 # Fonctionnement
 Un coût est associé a chaque connection entre routeur, avec la formule suivante : $coût = \dfrac{10^{8}}{debit}$.
@@ -23,7 +23,7 @@ A l'aide de l'[[Algorithme de Dijkstra]] on peut trouver le plus court chemin
 | 10Mbits/s  | $\dfrac{10^8}{10^6} = 10$    |
 | 100Mbits/s | $\dfrac{10^8}{10^8} = 1$     |
 | 1Gbits/s   | $\dfrac{10^8}{10^9} = 0.1$   |
-| 10Gbits/s  | $\dfrac{10^8}{10^10} = 0.01$ |
+| 10Gbits/s  | $\dfrac{10^8}{10^{10}} = 0.01$ |
 ### Application
 ![[Exemple de routage OSPF avec cout.png]]
 Les coûts ont été rajoutés en rouge.
