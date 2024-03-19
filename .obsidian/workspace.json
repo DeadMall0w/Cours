@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+                "file": "NSI/NSI - Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+                "file": "NSI/NSI - Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+                "file": "NSI/NSI - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/Réseaux/Utilisation des masques de sous-réseaux.md"
+                "file": "NSI/NSI - Index.md"
               }
             }
           },
@@ -223,10 +223,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f00a5ba1be4f144d",
+  "active": "f3b9dc1cb12e49e2",
   "lastOpenFiles": [
-    "NSI/Conversion des Unités de Poids Informatique.md",
+    "Test.md",
+    "File.md",
+    "NSI/NSI - Index.md",
+    "NSI/Arbre Binaire.md",
     "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+    "NSI/Conversion des Unités de Poids Informatique.md",
     "NSI/Réseaux/Protocoles internet.md",
     "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Réseaux/Protocole RIP.md",
@@ -240,7 +244,6 @@
     "PDF",
     "Nouveau dossier",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
-    "NSI/Arbre Binaire.md",
     "NSI/Images/Arbres binaire/Pasted image 20231127181743.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127180344.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127174312.png",
@@ -256,7 +259,6 @@
     "NSI/Images",
     "NSI/Exemple de routage RIP.canvas",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Test.md",
     "Maths/Verifier si un point est sur un plan.md",
     "NSI/Coût d'un alogrithme.md",
     "SI Euro/M. Demarthe/Exposé a faire.md",
@@ -272,8 +274,6 @@
     "Maths/Index.md",
     "Conditionnelle.md",
     "Maths/Cours/Exponentielle.md",
-    "Expo.md",
-    "Maths/Cours/Exponetielle.md",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]
