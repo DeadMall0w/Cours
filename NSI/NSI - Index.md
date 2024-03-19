@@ -62,6 +62,10 @@
 - [ ] [[Gestion des processus]]
 - [ ] [[Architecture Materiel]]
 - [ ] [[Composants de puce]]
+## Linux 
+- [ ] [[Linux]]
+- [ ] [[Commandes Linux]]
+- [ ] [[Commandes Windows]]
 ## Binaire 
 - [ ] [[Binaire]]
 - [ ] [[Nombre entier relatif]]
@@ -74,3 +78,4 @@
 - [ ] [[HTML]]
 - [ ] [[CSS]]
 - [ ] [[Javascript]]
+
