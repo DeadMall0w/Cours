@@ -1219,21 +1219,17 @@ select:focus, .dropdown:focus {
     color: var(--text-normal);
 }
 
+/* Added by DeadMall0w */
 .markdown-embed-title {
     display: none;
 }
 
-/* .markdown-source-view.mod-cm6.is-readable-line-width .cm-line{
-    /* background-color: red; */
-    /* margin: 0px; 
-    max-width: 100%;
-    /* padding: 0px; */
-    /* max-width: 100%; 
+/* center text */
+/* .markdown-source-view.mod-cm6.is-readable-line-width {
+  text-align: center; 
 } */
 
-/* .markdown-source-view.mod-cm6.is-readable-line-width {
-  /* text-align: center; 
-} */
+/* Force the content to take the all page, with small margin*/
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
     max-width: 100%;
     margin-right: auto;

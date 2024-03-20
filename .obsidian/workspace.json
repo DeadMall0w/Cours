@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/NSI - Index.md",
+                "file": "NSI/Réseaux/Protocoles internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+                "file": "NSI/Réseaux/Protocoles internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+                "file": "NSI/Réseaux/Protocoles internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md"
+                "file": "NSI/Réseaux/Protocoles internet.md"
               }
             }
           },
@@ -181,9 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f00a5ba1be4f144d",
+  "active": "5dec65d5ea0da31d",
   "lastOpenFiles": [
     "NSI/NSI - Index.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Coût d'un alogrithme.md",
     "NSI/Conversion des Unités de Poids Informatique.md",
     "Philo/Conaissance.md",
@@ -191,7 +191,6 @@
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
     "NSI/Réseaux/Protocole OSPF.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Arbre Binaire.md",
     "Test.md",
     "File.md",
