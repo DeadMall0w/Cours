@@ -11,7 +11,7 @@ $D$ est trouvé en vérifiant l'équation avec un plan.
 
 # Exemple
 Vecteur normal : $\vec{n} = (3,2,1)$, point du plan : $E = (-1,0,2)$
-1. On attribue les coef dans l'équation a partir du vecteur normal
+1. On attribue les coef dans l'équation a partir du [[Vecteur normal du plan]]
 $(P) : Ax + By + Cz + D = 0$
 $(P) : 3x + 2y + 1z + D = 0$
 2. On cherche $D$ avec un point du plan

@@ -18,12 +18,12 @@ A l'aide de l'[[Algorithme de Dijkstra]] on peut trouver le plus court chemin
 ![[Exemple de routage OSPF.png]]
 ### Tables des coûts 
 
-| Vitesse    | Coût                         |
-| ---------- | ---------------------------- |
-| 1Mbits/s   | $\dfrac{10^8}{10^6} = 100$   |
-| 10Mbits/s  | $\dfrac{10^8}{10^6} = 10$    |
-| 100Mbits/s | $\dfrac{10^8}{10^8} = 1$     |
-| 1Gbits/s   | $\dfrac{10^8}{10^9} = 0.1$   |
+| Vitesse    | Coût                           |
+| ---------- | ------------------------------ |
+| 1Mbits/s   | $\dfrac{10^8}{10^6} = 100$     |
+| 10Mbits/s  | $\dfrac{10^8}{10^6} = 10$      |
+| 100Mbits/s | $\dfrac{10^8}{10^8} = 1$       |
+| 1Gbits/s   | $\dfrac{10^8}{10^9} = 0.1$     |
 | 10Gbits/s  | $\dfrac{10^8}{10^{10}} = 0.01$ |
 ### Application
 ![[Exemple de routage OSPF avec cout.png]]

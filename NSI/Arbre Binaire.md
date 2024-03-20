@@ -171,4 +171,3 @@ def inserer(self, cle):
         return ArbreBinaire(self.etiquette, self.sag, self.sad.inserer(cle))
 ```
 
-#Cours #NSI

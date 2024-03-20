@@ -5,6 +5,7 @@
 - [ ] [[Boucles]]
 - [ ] [[Gestion de bugs]]
 # Structure donnée
+- [ ] [[Variables élémetaire]]
 - [ ] [[Dictionnaire]]
 - [ ] [[Liste]]
 - [ ] [[Pile]]

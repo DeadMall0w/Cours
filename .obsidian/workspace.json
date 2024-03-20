@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Réseaux/Protocole OSPF.md",
+                "file": "NSI/NSI - Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/NSI - Index.md",
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/Réseaux/Protocole OSPF.md",
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/Réseaux/Protocole OSPF.md",
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/Réseaux/Protocole OSPF.md"
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md"
               }
             }
           },
@@ -180,16 +181,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dec65d5ea0da31d",
+  "active": "f00a5ba1be4f144d",
   "lastOpenFiles": [
     "NSI/NSI - Index.md",
+    "NSI/Coût d'un alogrithme.md",
+    "NSI/Conversion des Unités de Poids Informatique.md",
+    "Philo/Conaissance.md",
+    "Philo/Methodo.md",
+    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
+    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
+    "NSI/Réseaux/Protocole OSPF.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+    "NSI/Arbre Binaire.md",
     "Test.md",
     "File.md",
-    "NSI/Arbre Binaire.md",
     "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
-    "NSI/Conversion des Unités de Poids Informatique.md",
     "NSI/Réseaux/Protocoles internet.md",
-    "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Réseaux/Protocole RIP.md",
     "NSI/Réseaux/Réseaux.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
@@ -217,9 +224,7 @@
     "NSI/Exemple de routage RIP.canvas",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
     "Maths/Verifier si un point est sur un plan.md",
-    "NSI/Coût d'un alogrithme.md",
     "SI Euro/M. Demarthe/Exposé a faire.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne 1.md",
     "Trouver.md",
     "README.md",
@@ -227,10 +232,6 @@
     "Maths/Cours/Géométrie/Droite paramétrique.md",
     "Equation cartesiennes.md",
     "Maths/Cours/Equation cartesiennes.md",
-    "Maths/Equation cartesiennes.md",
-    "Maths/Index.md",
-    "Conditionnelle.md",
-    "Maths/Cours/Exponentielle.md",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]
