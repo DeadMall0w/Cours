@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -180,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7526b49371a6cd4b",
+  "active": "5dec65d5ea0da31d",
   "lastOpenFiles": [
     "NSI/NSI - Index.md",
     "Test.md",

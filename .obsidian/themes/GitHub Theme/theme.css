@@ -281,7 +281,7 @@ body {
     /* File layout */
     --file-line-width: 700px;
     --file-folding-offset: 24px;
-    --file-margins: var(--size-4-8);
+    --file-margins: 80px;
     --file-header-font-size: var(--font-ui-small);
     --file-header-font-weight: 400;
     --file-header-border: var(--border-width) solid transparent;
@@ -1222,4 +1222,40 @@ select:focus, .dropdown:focus {
 .markdown-embed-title {
     display: none;
 }
+
+/* .markdown-source-view.mod-cm6.is-readable-line-width .cm-line{
+    /* background-color: red; */
+    /* margin: 0px; 
+    max-width: 100%;
+    /* padding: 0px; */
+    /* max-width: 100%; 
+} */
+
+.markdown-source-view.mod-cm6.is-readable-line-width {
+  text-align: center;
+}
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+    max-width: 100%;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 50px;
+  }
+  .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 50px;
+  }
+  .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 50px;
+  }
+
+  .markdown-source-view.mod-cm6 .cm-table-widget {
+    text-align: center;
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 50px;
+    margin: 0px;
+  }
 
