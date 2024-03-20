@@ -11,5 +11,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Travail/Etudes/Cours/Maths/Cours",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "showLineNumber": false
 }

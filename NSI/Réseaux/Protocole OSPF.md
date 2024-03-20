@@ -12,6 +12,7 @@ Le débit est en b/s.
 > De plus, la formule de coût peux varié d'un exercice à l'autre, si elle change cela sera indiqué
 
 A l'aide de l'[[Algorithme de Dijkstra]] on peut trouver le plus court chemin
+
 # Utilisation
 
 ![[Exemple de routage OSPF.png]]

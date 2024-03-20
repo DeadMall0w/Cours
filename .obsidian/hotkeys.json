@@ -24,5 +24,13 @@
       ],
       "key": "N"
     }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

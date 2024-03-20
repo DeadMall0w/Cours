@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -107,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NSI/Réseaux/Protocole OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NSI/Réseaux/Protocole OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NSI/Réseaux/Protocole OSPF.md"
+              }
             }
           },
           {
