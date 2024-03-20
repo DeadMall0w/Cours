@@ -1240,7 +1240,6 @@ select:focus, .dropdown:focus {
     max-width: 100%;
     padding-left: 15px;
     padding-right: 50px;
-    
   }
   .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
     max-width: 100%;
@@ -1253,8 +1252,30 @@ select:focus, .dropdown:focus {
     margin: auto;
   }
 
+  /* Center image */
+  .markdown-source-view.mod-cm6 .image-embed{
+    text-align: center;
+    /* background-color: red; */
+    margin: 0px;
+    padding: 0px;
+}
+
+/* center images in embeded note */
+.markdown-source-view.mod-cm6 .internal-embed{
+    text-align: center;
+    /* background-color: red; */
+    margin: 0px;
+    padding: 0px;
+}
+
   /* Center cell text in table */
   .table-cell-wrapper {
     text-align: center;
   }
+
+  table{
+    text-align: center;
+    /* background-color: red; */
+  }
+  /* 3074 */
 
