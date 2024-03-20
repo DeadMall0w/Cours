@@ -6,7 +6,7 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Cambria Math",
-  "textFontFamily": "Cascadia Mono,Amiri Quran,Lucida Sans Unicode,Ink Free",
+  "textFontFamily": "Cascadia Mono,Verdana,Amiri Quran,Lucida Sans Unicode,Ink Free",
   "monospaceFontFamily": "Cascadia Code",
   "nativeMenus": false
 }
