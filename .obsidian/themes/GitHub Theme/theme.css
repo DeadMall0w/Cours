@@ -1252,10 +1252,14 @@ select:focus, .dropdown:focus {
   }
 
   .markdown-source-view.mod-cm6 .cm-table-widget {
+    background-color: red;
+    margin: auto;
     text-align: center;
-    max-width: 100%;
-    padding-left: 15px;
-    padding-right: 50px;
-    margin: 0px;
+  }
+
+  /* Center cell text in table */
+  .table-cell-wrapper {
+    background-color: green;
+    text-align: center;
   }
 
