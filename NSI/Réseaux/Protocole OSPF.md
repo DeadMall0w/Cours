@@ -1,7 +1,7 @@
 # Définition
 OSPF = Open Shortest Path First
 Le protocole OSPF est un protocole de routage utilisé **dans les réseaux informatiques** pour permettre aux routeurs de communiquer entre eux et de partager des informations sur les **chemins les plus efficaces** pour atteindre les réseaux de destination.
-Contrairement au [[Protocole RIP]], ce protocole utilise les bandes passantes pour trouver les chemins les plus courts. Il vise a **priotiser les connections où la bande passante est la plus forte**, permettant des chemins plus rapide qu'avec le [[Protocole RIP]].
+Contrairement au [[Protocole RIP]], ce protocole utilise les bandes passantes pour trouver les chemins les plus courts. Il vise a **prioriser les connections où la bande passante est la plus forte**, permettant des chemins plus rapide qu'avec le [[Protocole RIP]].
 
 # Fonctionnement
 Un coût est associé a chaque connection entre routeur, avec la formule suivante : $coût = \dfrac{10^{8}}{debit}$.
