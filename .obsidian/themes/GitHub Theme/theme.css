@@ -1251,15 +1251,14 @@ select:focus, .dropdown:focus {
     padding-right: 50px;
   }
 
-  .markdown-source-view.mod-cm6 .cm-table-widget {
-    background-color: red;
-    margin: auto;
+  /* Center table */
+  .table-wrapper {
     text-align: center;
+    margin: auto;
   }
 
   /* Center cell text in table */
   .table-cell-wrapper {
-    background-color: green;
     text-align: center;
   }
 
