@@ -1,3 +1,6 @@
+
+![[test.js]]
+
 # Introduction
 A FAIRE
 
@@ -23,7 +26,8 @@ Ces 2 plans peuvent être :
 	- Sécant en une **droite** si $\vec{n_{1}}.\vec{n_{2}} \neq 0$.
 	- Sont orthogonaux si $\vec{n_{1}}.\vec{n_{2}} = 0$
 
-<button id="toggleButton">Afficher/Masquer</button>
+<button id="toggleButton" onclick="toggleEmbed()">Afficher/Masquer</button>
+
 
 
 ## Position d'une droite et d'un plan
