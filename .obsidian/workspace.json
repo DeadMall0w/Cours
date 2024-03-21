@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES - Physique Chimie - 2 siècle d'énergie.md",
+                "file": "TestJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ES - Physique Chimie - 2 siècle d'énergie.md",
+                "file": "TestJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ES - Physique Chimie - 2 siècle d'énergie.md",
+                "file": "TestJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ES - Physique Chimie - 2 siècle d'énergie.md"
+                "file": "TestJS.md"
               }
             }
           },
@@ -175,8 +174,8 @@
   },
   "active": "613bec882ed2ca96",
   "lastOpenFiles": [
-    "TestJS.md",
     "ES - Physique Chimie - 2 siècle d'énergie.md",
+    "TestJS.md",
     "Test better embed.md",
     "Test.md",
     "Maths/Cours/Géométrie/Plan.md",
