@@ -36,3 +36,17 @@ $f(x)=Ce^{ -3x }$
 > Il est parfois necessaire de réarranger l'équation (passer un/des element/s à droite ou à gauche).
 > Ex : 4y'+ 9y = 0 -> 4y' - 9y
 
+## Trouver solutions : y' = ay + b
+Sous la forme ou une variante de y'= ay + b
+La solution est sous la forme : $f(x)=Ce^{ ax } - \dfrac{b}{a}$ 
+### Ex:
+$3y'+9y=12$
+$3y'=-9y+12$ **Des réarrangement de l'équation peuvent être nécessaire.**
+$y'=-3y+4$ *Simplification par 3.*
+$f(x) = Ce^{ -3 }-\dfrac{4}{-3}$
+$f(x) = Ce^{ -3 }+\dfrac{4}{3}$
+
+
+## Trouver C
+A FAIRE
+On peut trouver C grace a des équations et a des valeurs donnée.
