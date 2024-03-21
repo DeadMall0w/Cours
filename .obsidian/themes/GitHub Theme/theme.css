@@ -1262,7 +1262,7 @@ select:focus, .dropdown:focus {
 
 /* center images in embeded note */
 .markdown-source-view.mod-cm6 .internal-embed{
-    text-align: center;
+    /*text-align: center;*/
     /* background-color: red; */
     margin: 0px;
     padding: 0px;
