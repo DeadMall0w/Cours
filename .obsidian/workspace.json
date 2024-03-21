@@ -13,49 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths - Index.md",
+                "file": "Maths/Cours/Probabilité conditionnelle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b580a0ed3a66c8a6",
+            "id": "096146276ba9a482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Réseaux/Réseaux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d592d9a4529ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSI/NSI - Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a7bf7ffd560f266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSI/Réseaux/Réseaux.md",
+                "file": "Evenements indépendant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths - Index.md",
+                "file": "Evenements indépendant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths - Index.md",
+                "file": "Evenements indépendant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths - Index.md"
+                "file": "Evenements indépendant.md"
               }
             }
           },
@@ -195,11 +172,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdb731206951c885",
+  "active": "096146276ba9a482",
   "lastOpenFiles": [
+    "Maths/Cours/Probabilité conditionnelle.md",
+    "Evenements indépendant.md",
+    "Maths/Maths - Index.md",
+    "Maths/Cours/Probabilité.md",
     "Maths/Maths doc.md",
     "Maths/Index.md",
-    "Maths/Maths - Index.md",
     "NSI/NSI - Index.md",
     "Test.md",
     "NSI/Réseaux/Protocoles internet.md",
@@ -243,9 +223,6 @@
     "Maths/Cours/puissance.md",
     "Maths/Cours/Géométrie/Droite paramétrique.md",
     "Equation cartesiennes.md",
-    "Maths/Cours/Equation cartesiennes.md",
-    "Maths/Equation cartesiennes.md",
-    "Conditionnelle.md",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]
