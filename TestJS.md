@@ -1,15 +1,3 @@
-<button id="ajouterLigne">Ajouter une ligne</button>
+<button id="toggleButton" onClick="toggleEmbed()">Afficher/Masquer l'embed</button> 
 
-
-```dataviewjs
-document.addEventListener("DOMContentLoaded", function() {
-    const button = document.getElementById('ajouterLigne');
-    const liste = document.getElementById('listeLignes');
-
-    button.addEventListener('click', function() {
-        const nouvelleLigne = document.createElement('li');
-        nouvelleLigne.textContent = "Nouvelle ligne ajoutée";
-        liste.appendChild(nouvelleLigne);
-    });
-});
-```
+![[Test better embed#test]]``` function toggleEmbed() { const embed = document.getElementById('test'); if (embed.style.display === 'none') { embed.style.display = 'block'; } else { embed.style.display = 'none'; } } ```

@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdb731206951c885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Géométrie/Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1981c095c3b44aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test better embed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14b8d87aa1801e50",
+            "id": "7526b49371a6cd4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,12 +20,12 @@
             }
           },
           {
-            "id": "45c2c3ca656d92bb",
+            "id": "613bec882ed2ca96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+                "file": "ES - Physique Chimie - 2 siècle d'énergie.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -122,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test better embed.md",
+                "file": "ES - Physique Chimie - 2 siècle d'énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test better embed.md",
+                "file": "ES - Physique Chimie - 2 siècle d'énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test better embed.md"
+                "file": "ES - Physique Chimie - 2 siècle d'énergie.md"
               }
             }
           },
@@ -191,39 +168,40 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1981c095c3b44aa",
+  "active": "613bec882ed2ca96",
   "lastOpenFiles": [
     "TestJS.md",
-    "Maths/Cours/Géométrie/Plan.md",
+    "ES - Physique Chimie - 2 siècle d'énergie.md",
     "Test better embed.md",
-    "test.js",
-    "Maths/Cours/Verifier si un point est sur un plan.md",
-    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
-    "Maths/Cours/Logarithme népérien (Ln).md",
-    "Maths/Cours/Géométrie/Droite paramétrique.md",
-    "Maths/Cours/Limite.md",
-    "Maths/Cours/Limite de suite.md",
-    "Maths/Cours/A FAIRE 1.md",
-    "Maths/Cours/Probabilité conditionnelle.md",
-    "Maths/Cours/Evenements indépendant.md",
-    "Maths/Maths - Index.md",
-    "Maths/Cours/Probabilité.md",
-    "Maths/Maths doc.md",
-    "Maths/Index.md",
-    "NSI/NSI - Index.md",
     "Test.md",
-    "NSI/Réseaux/Protocoles internet.md",
-    "NSI/Réseaux/Réseaux.md",
-    "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+    "Maths/Cours/Géométrie/Plan.md",
+    "Faire comme avant.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
-    "NSI/Réseaux/Protocole RIP.md",
+    "NSI/Réseaux/Protocoles internet.md",
+    "test.js",
+    "Maths/Maths - Index.md",
+    "Maths/Cours/Verifier si un point est sur un plan.md",
+    "Maths/Cours/Limite de suite.md",
+    "Maths/Cours/Géométrie/Géométrie.md",
+    "Maths/Cours/Evenements indépendant.md",
+    "Maths/Cours/A FAIRE 1.md",
+    "NSI/NSI - Index.md",
+    "NSI/Coût d'un alogrithme.md",
     "NSI/Conversion des Unités de Poids Informatique.md",
+    "Philo/Conaissance.md",
+    "Philo/Methodo.md",
+    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
+    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
+    "NSI/Arbre Binaire.md",
+    "File.md",
+    "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+    "NSI/Réseaux/Protocole RIP.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png.0.pdnSave",
@@ -233,7 +211,6 @@
     "PDF",
     "Nouveau dossier",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
-    "NSI/Arbre Binaire.md",
     "NSI/Images/Arbres binaire/Pasted image 20231127181743.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127180344.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127174312.png",
