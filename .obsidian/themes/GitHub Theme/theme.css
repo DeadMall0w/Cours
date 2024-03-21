@@ -1285,14 +1285,14 @@ select:focus, .dropdown:focus {
   }
   
   .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
-    padding:20px;
+    padding-left:20px;
   }
   
   .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
-    padding:20px;
+    padding-left:20px;
   }
   
   .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
-    padding:20px;
+    padding-left:20px;
   }
 
