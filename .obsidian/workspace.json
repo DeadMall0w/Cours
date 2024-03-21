@@ -6,7 +6,6 @@
       {
         "id": "d6c5926675b7ddba",
         "type": "tabs",
-        "dimension": 47.4559686888454,
         "children": [
           {
             "id": "cdb731206951c885",
@@ -21,12 +20,12 @@
             }
           },
           {
-            "id": "096146276ba9a482",
+            "id": "45c2c3ca656d92bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Evenements indépendant.md",
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,17 +34,28 @@
         ]
       },
       {
-        "id": "38fcda1ac5c3ef0d",
+        "id": "b2a3b0c6574340d8",
         "type": "tabs",
-        "dimension": 52.544031311154605,
         "children": [
           {
-            "id": "f576cccdbc0682a9",
+            "id": "08e3f0651b3af5fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8b061aa223f219d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Verifier si un point est sur un plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+                "file": "Maths/Cours/Géométrie/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+                "file": "Maths/Cours/Géométrie/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md"
+                "file": "Maths/Cours/Géométrie/Plan.md"
               }
             }
           },
@@ -191,10 +202,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3b9dc1cb12e49e2",
+  "active": "cdb731206951c885",
   "lastOpenFiles": [
-    "Maths/Cours/Géométrie/Plan.md",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+    "Maths/Cours/Géométrie/Plan.md",
+    "Maths/Cours/Verifier si un point est sur un plan.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "Maths/Cours/Logarithme népérien (Ln).md",
     "Maths/Cours/Géométrie/Droite paramétrique.md",
     "Maths/Cours/Limite.md",
@@ -238,10 +251,8 @@
     "NSI/Images/Protocoles internet",
     "NSI/Images",
     "NSI/Exemple de routage RIP.canvas",
-    "Maths/Cours/Verifier si un point est sur un plan.md",
     "NSI/Coût d'un alogrithme.md",
     "SI Euro/M. Demarthe/Exposé a faire.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]

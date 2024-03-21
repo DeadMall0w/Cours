@@ -8,12 +8,13 @@ completed:
 ## Introduction
 Les équations cartésiennes de plan servent à représenter des [plans](Plan.md) dans un espace en 3D en utilisant des [équations algébriques](equation algebrique).
 ## Propriétés/Formules
-Exprimé sous la forme : $Ax + By + Cz + D = 0$ ou $(A,B,C)$ viennent du [vecteur normal](Vecteur normal) du plan.
-# Utilisation
+Exprimé sous la forme : $Ax + By + Cz + D = 0$ ou $(A,B,C)$ viennent du [[Vecteur normal du plan]] du plan.
+# Obtention d'une équation cartésienne
 ![[Trouver equation cartesienne]]
 
 # Application
-Permet de ![[Verifier si un point est sur un plan]]
+# Vérifier point dans un plan
+![[Verifier si un point est sur un plan]]
 
 # Liens 
 [[Plan]], [[Vecteur normal du plan]] 

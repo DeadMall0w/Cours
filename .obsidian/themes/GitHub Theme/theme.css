@@ -1278,4 +1278,21 @@ select:focus, .dropdown:focus {
     /* background-color: red; */
   }
   /* 3074 */
+  
+  
+  .view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+  padding: 5px;
+  }
+  
+  .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+    padding:0px;
+  }
+  
+  .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
+    padding:0px;
+  }
+  
+  .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+    padding:0px;
+  }
 
