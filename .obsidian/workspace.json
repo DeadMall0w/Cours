@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Réseaux/Protocoles internet.md",
+                "file": "Maths/Maths - Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/Réseaux/Protocoles internet.md",
+                "file": "Maths/Maths - Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/Réseaux/Protocoles internet.md",
+                "file": "Maths/Maths - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/Réseaux/Protocoles internet.md"
+                "file": "Maths/Maths - Index.md"
               }
             }
           },
@@ -198,9 +197,13 @@
   },
   "active": "cdb731206951c885",
   "lastOpenFiles": [
-    "NSI/Réseaux/Réseaux.md",
+    "Maths/Maths doc.md",
+    "Maths/Index.md",
+    "Maths/Maths - Index.md",
     "NSI/NSI - Index.md",
+    "Test.md",
     "NSI/Réseaux/Protocoles internet.md",
+    "NSI/Réseaux/Réseaux.md",
     "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
     "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Réseaux/Protocole RIP.md",
@@ -230,7 +233,6 @@
     "NSI/Images",
     "NSI/Exemple de routage RIP.canvas",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Test.md",
     "Maths/Verifier si un point est sur un plan.md",
     "NSI/Coût d'un alogrithme.md",
     "SI Euro/M. Demarthe/Exposé a faire.md",
@@ -243,10 +245,7 @@
     "Equation cartesiennes.md",
     "Maths/Cours/Equation cartesiennes.md",
     "Maths/Equation cartesiennes.md",
-    "Maths/Index.md",
     "Conditionnelle.md",
-    "Maths/Cours/Exponentielle.md",
-    "Expo.md",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]
