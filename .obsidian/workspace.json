@@ -6,6 +6,7 @@
       {
         "id": "d6c5926675b7ddba",
         "type": "tabs",
+        "dimension": 47.4559686888454,
         "children": [
           {
             "id": "cdb731206951c885",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité conditionnelle.md",
+                "file": "Maths/Cours/Géométrie/Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +26,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evenements indépendant.md",
+                "file": "Maths/Cours/Evenements indépendant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "38fcda1ac5c3ef0d",
+        "type": "tabs",
+        "dimension": 52.544031311154605,
+        "children": [
+          {
+            "id": "f576cccdbc0682a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evenements indépendant.md",
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evenements indépendant.md",
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evenements indépendant.md"
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md"
               }
             }
           },
@@ -172,10 +191,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "096146276ba9a482",
+  "active": "f3b9dc1cb12e49e2",
   "lastOpenFiles": [
+    "Maths/Cours/Géométrie/Plan.md",
+    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+    "Maths/Cours/Logarithme népérien (Ln).md",
+    "Maths/Cours/Géométrie/Droite paramétrique.md",
+    "Maths/Cours/Limite.md",
+    "Maths/Cours/Limite de suite.md",
+    "Maths/Cours/A FAIRE 1.md",
     "Maths/Cours/Probabilité conditionnelle.md",
-    "Evenements indépendant.md",
+    "Maths/Cours/Evenements indépendant.md",
     "Maths/Maths - Index.md",
     "Maths/Cours/Probabilité.md",
     "Maths/Maths doc.md",
@@ -212,17 +238,10 @@
     "NSI/Images/Protocoles internet",
     "NSI/Images",
     "NSI/Exemple de routage RIP.canvas",
-    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Maths/Verifier si un point est sur un plan.md",
+    "Maths/Cours/Verifier si un point est sur un plan.md",
     "NSI/Coût d'un alogrithme.md",
     "SI Euro/M. Demarthe/Exposé a faire.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne 1.md",
-    "Trouver.md",
-    "README.md",
-    "Maths/Cours/puissance.md",
-    "Maths/Cours/Géométrie/Droite paramétrique.md",
-    "Equation cartesiennes.md",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
   ]

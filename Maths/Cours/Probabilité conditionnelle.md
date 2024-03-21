@@ -20,6 +20,3 @@ $A$ et $B$ étant deux événements tels que $p(A)≠0$, la **probabilité de $B
 # Exercices
 
 
-# Temporaire
-> Notes, qui seront normalement supprimé apres, qui ont pour but d'aider a la construction de ce document
-

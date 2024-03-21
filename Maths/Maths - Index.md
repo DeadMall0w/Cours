@@ -24,7 +24,7 @@
 	- [ ] [[Suite arithmétique]]
 	- [ ] [[Géométrique]]
 	- [ ] [[Suite arithmético-Géométrique]]
-	- [ ] [[limite de suite]]
+	- [ ] [[Limite de suite]]
 	- [ ] [[Théorème Gendarme]]
 	- [ ] [[Théorème de comparaison]]
 
