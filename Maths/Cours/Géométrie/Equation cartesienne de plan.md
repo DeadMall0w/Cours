@@ -18,3 +18,8 @@ Exprimé sous la forme : $Ax + By + Cz + D = 0$ ou $(A,B,C)$ viennent du [[Vecte
 
 # Liens 
 [[Plan]], [[Vecteur normal du plan]] 
+
+
+
+# Temporaire
+On peut trouver le vecteur normal à l'aide de l'équation cartésienne
