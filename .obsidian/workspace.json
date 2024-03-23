@@ -47,12 +47,24 @@
             "id": "3cb134fb1f5687cc",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Maths - Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a081d8ebe06667a8",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3cb134fb1f5687cc",
+  "active": "a081d8ebe06667a8",
   "lastOpenFiles": [
     "Maths/Maths - Index.md",
     "Maths/Cours/Calcul/Nombres irrationnels.md",
