@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cb134fb1f5687cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -111,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maths/Cours/Calcul/Ensembles de nombre.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,15 +188,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9867187f4f66b1e7",
+  "active": "3cb134fb1f5687cc",
   "lastOpenFiles": [
-    "Maths/Images/Ensembles de nombre schema.png",
+    "Maths/Maths - Index.md",
+    "Maths/Cours/Calcul/Nombres irrationnels.md",
     "Maths/Cours/Calcul/Ensembles de nombre.md",
+    "Maths/Images/Ensembles de nombre schema.png",
     "Maths/LaTeX.md",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
     "Maths/Maths doc.md",
-    "Maths/Maths - Index.md",
     "Maths/Cours/Géométrie/Probabilité totale.md",
     "Maths/Exemples/Suite",
     "Maths/Exemples/Probabilité",

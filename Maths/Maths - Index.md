@@ -27,7 +27,9 @@
 	- [ ] [[Limite de suite]]
 	- [ ] [[Théorème Gendarme]]
 	- [ ] [[Théorème de comparaison]]
-
+- [ ] [[Ensembles de nombre]]
+	- [ ] [[Nombres rationnels]]
+	- [ ] [[Nombres irrationnels]]
 - [ ] Formules
 	- [ ] [[puissance]]
 	- [ ] [[fraction]]
