@@ -2,7 +2,7 @@
 ## Liste
 - [ ] [[Probabilité]]
 	- [ ] [[Probabilité conditionnelle]]
-	- [ ] [[Totale]]
+	- [ ] [[Probabilité totale]]
 	- [ ] [[Binomiale]]
 - [ ] [[Dénombrement]]
 - [ ] [[Etude de fonction]]

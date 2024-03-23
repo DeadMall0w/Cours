@@ -1,44 +1,53 @@
-- $\heartsuit$
-- $a_150$
-- $3^5$
-- $\frac{4}{6}$
-- $\dfrac{4}{6}$ $\frac{5}{4}$
-- $\frac{1}{50} 3x 5$
-- $\mathrm{Im}$
-- $A_{1} + B_{2}$
-- 
-- 
-- $\sqrt5$
-- $\alpha$ / $\beta$ / ...
-- $\int_{a}^{b} f(x) dx$
-- $\vec{v}$
-- $\left[ 5+3 \right]$
-- [5 + 4[
-- $\mathbb{N}$ / $\mathbb{Z}$ / $\mathbb{R}$
-- $\frac{\partial f}{\partial x}$
-- $\leq$ / $\geq$
-- $\to$, $\leftarrow$, $\Rightarrow$, $\Leftrightarrow$
-- $\sum_{n=1}^{\infty}$
-- $\iint$
-- $\times$
-- $\div$
-- $\boxed{Coucou}$
-- $\begin{align} 2x + y &= 5 \\ 3x - 2y &= 7 \end{align}$
-- $\cap$
-# Listes des plus importants
-## Puissances
-sr -> $5^{2}$
-cb -> $4^{3}$
-rd -> 
-$5^{4}$
-$\pi +4 \frac{5}{x^{6}}$
-## Lettres grecs
-$\frac{4}{90^{18}}$
+mk -> $équation$
+## Puissance
+sr -> $^{2}$
+cb -> $^{3}$
+rd -> $^{x}$
+
+## Opération
+sq -> $\sqrt{ x }$
+xx -> $\times$
+
+## Autres
+oo -> $\infty$
+lim -> $\lim_{ n \to \infty }$
+sin -> $\sin$
+x_k -> $x_{k}$
+a5 -> $a_{5}$
+De la meme façon pour cos, tan
+hat -> $\hat{x}$
+bar -> $\bar{p}$
+tilde -> $\tilde{x}$
+ee -> $e^{ x }$
+im -> $\mathrm{Im}$
+re -> $\mathrm{Re}$
+und -> $\underline{x}$
+dot -> $x\dot{}$
+cdot -> $x\cdot$
+ddot -> $x\ddot{}$
+para -> $(AB)\parallel (BC)$
+
+## Ensemble de nombre
+II -> $\mathbb{1}$
+nn -> $\mathbb{N}$
+rr -> $\mathbb{R}$
+
+### Vecteurs
+vec -> $\vec{u}$
+
+## Lettres grec
+@ + lettre
 @a -> $\alpha$
 @b -> $\beta$
-$\frac{20x^{4}}{4^{3}}$
-$\dfrac{20x^{4}}{4^{3}}$
-$\tfrac{20x^{4}}{4^{3}}$
+...
+
+## Ceux a rajouter
+in -> $\in$
+ort -> $\perp$
+
+
+
+
 [
 	// Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Logarithme népérien (Ln).md",
+                "file": "Maths/LaTeX.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Logarithme népérien (Ln).md",
+                "file": "Maths/LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Logarithme népérien (Ln).md",
+                "file": "Maths/LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Logarithme népérien (Ln).md"
+                "file": "Maths/LaTeX.md"
               }
             }
           },
@@ -174,6 +174,22 @@
   },
   "active": "613bec882ed2ca96",
   "lastOpenFiles": [
+    "Maths/Images/Arbre - probabilité.png",
+    "Maths/Images",
+    "Maths/Maths doc.md",
+    "Maths/Maths - Index.md",
+    "Maths/Cours/Géométrie/Probabilité totale.md",
+    "Maths/Exemples/Suite",
+    "Maths/Exemples/Probabilité",
+    "Maths/Exemples/Formules",
+    "Maths/Exemples/Etude fonction",
+    "Maths/Exemples/Calcul",
+    "Maths/Exemples/Untitled.md",
+    "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
+    "Maths/Cours/Untitled.md",
+    "Maths/Cours/Limite.md",
+    "Maths/Cours/Calcul",
+    "Maths/Cours/Géométrique.md",
     "Maths/Cours/A FAIRE 1.md",
     "ES - Physique Chimie - 2 siècle d'énergie.md",
     "README.md",
@@ -181,34 +197,21 @@
     "Test.md",
     "Test better embed.md",
     "TestJS.md",
-    "Maths/Cours/Exponentielle.md",
-    "Maths/Equation différentielle.md",
-    "Maths/Maths - Index.md",
-    "Maths/Maths doc.md",
+    "Maths/Cours/Etude fonction/Exponentielle.md",
+    "Maths/Cours/Etude fonction/Equation différentielle.md",
     "Maths/Cours/Géométrie/Plan.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Réseaux/Protocoles internet.md",
     "test.js",
-    "Maths/Cours/Verifier si un point est sur un plan.md",
-    "Maths/Cours/Limite de suite.md",
+    "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
+    "Maths/Cours/Suite/Limite de suite.md",
     "Maths/Cours/Géométrie/Géométrie.md",
-    "Maths/Cours/Evenements indépendant.md",
-    "NSI/NSI - Index.md",
-    "NSI/Coût d'un alogrithme.md",
-    "NSI/Conversion des Unités de Poids Informatique.md",
-    "Philo/Conaissance.md",
-    "Philo/Methodo.md",
-    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
-    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
+    "Maths/Cours/Probabilité/Evenements indépendant.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png",
-    "NSI/Réseaux",
-    "PDF/Protocoles internet.pdf",
-    "PDF",
-    "Nouveau dossier",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Arbres binaire/Pasted image 20231127181743.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127180344.png",
@@ -217,11 +220,8 @@
     "NSI/Images/Arbres binaire/Pasted image 20231127174055.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127173947.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127172206.png",
-    "NSI/Images/Arbres binaire",
-    "NSI/Images/Nouveau dossier",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Images/Pasted image 20231127181743.png",
-    "NSI/Images/Protocoles internet",
     "NSI/Exemple de routage RIP.canvas",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"
