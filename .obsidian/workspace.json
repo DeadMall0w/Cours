@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/LaTeX.md",
+                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9867187f4f66b1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/LaTeX.md",
+                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/LaTeX.md",
+                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/LaTeX.md"
+                "file": "Maths/Cours/Calcul/Ensembles de nombre.md"
               }
             }
           },
@@ -172,8 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "613bec882ed2ca96",
+  "active": "9867187f4f66b1e7",
   "lastOpenFiles": [
+    "Maths/Images/Ensembles de nombre shema.png",
+    "Maths/Cours/Calcul/Ensembles de nombre.md",
+    "Maths/LaTeX.md",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
     "Maths/Maths doc.md",
@@ -186,7 +201,6 @@
     "Maths/Exemples/Calcul",
     "Maths/Exemples/Untitled.md",
     "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
-    "Maths/Cours/Untitled.md",
     "Maths/Cours/Limite.md",
     "Maths/Cours/Calcul",
     "Maths/Cours/Géométrique.md",
@@ -207,7 +221,6 @@
     "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
     "Maths/Cours/Suite/Limite de suite.md",
     "Maths/Cours/Géométrie/Géométrie.md",
-    "Maths/Cours/Probabilité/Evenements indépendant.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png.0.pdnSave",
@@ -219,9 +232,7 @@
     "NSI/Images/Arbres binaire/Pasted image 20231127174137.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127174055.png",
     "NSI/Images/Arbres binaire/Pasted image 20231127173947.png",
-    "NSI/Images/Arbres binaire/Pasted image 20231127172206.png",
     "NSI/Images/Exemple de routage RIP.canvas",
-    "NSI/Images/Pasted image 20231127181743.png",
     "NSI/Exemple de routage RIP.canvas",
     "Draft/test canvas.canvas",
     "Travail/Cours/SVT/Homme de florès.canvas"

@@ -28,7 +28,7 @@ ddot -> $x\ddot{}$
 para -> $(AB)\parallel (BC)$
 
 ## Ensemble de nombre
-II -> $\mathbb{1}$
+II -> $\mathbb{1}$ 
 nn -> $\mathbb{N}$
 rr -> $\mathbb{R}$
 
