@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TestJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6492d27fec7cb85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Equation différentielle.md",
+                "file": "Maths/Cours/Logarithme népérien (Ln).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Equation différentielle.md",
+                "file": "Maths/Cours/Logarithme népérien (Ln).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Equation différentielle.md",
+                "file": "Maths/Cours/Logarithme népérien (Ln).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Equation différentielle.md"
+                "file": "Maths/Cours/Logarithme népérien (Ln).md"
               }
             }
           },
@@ -184,17 +172,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6492d27fec7cb85",
+  "active": "613bec882ed2ca96",
   "lastOpenFiles": [
+    "Maths/Cours/A FAIRE 1.md",
+    "ES - Physique Chimie - 2 siècle d'énergie.md",
+    "README.md",
+    "Faire comme avant.md",
+    "Test.md",
+    "Test better embed.md",
+    "TestJS.md",
+    "Maths/Cours/Exponentielle.md",
+    "Maths/Equation différentielle.md",
     "Maths/Maths - Index.md",
     "Maths/Maths doc.md",
-    "ES - Physique Chimie - 2 siècle d'énergie.md",
-    "Maths/Equation différentielle.md",
-    "TestJS.md",
-    "Test better embed.md",
-    "Test.md",
     "Maths/Cours/Géométrie/Plan.md",
-    "Faire comme avant.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Réseaux/Protocoles internet.md",
@@ -203,7 +194,6 @@
     "Maths/Cours/Limite de suite.md",
     "Maths/Cours/Géométrie/Géométrie.md",
     "Maths/Cours/Evenements indépendant.md",
-    "Maths/Cours/A FAIRE 1.md",
     "NSI/NSI - Index.md",
     "NSI/Coût d'un alogrithme.md",
     "NSI/Conversion des Unités de Poids Informatique.md",
@@ -211,8 +201,6 @@
     "Philo/Methodo.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
-    "NSI/Arbre Binaire.md",
-    "File.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png.0.pdnSave",
