@@ -8,63 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7526b49371a6cd4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TestJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "613bec882ed2ca96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9867187f4f66b1e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Calcul/Ensembles de nombre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3cb134fb1f5687cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths - Index.md",
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a081d8ebe06667a8",
+            "id": "157eb0e1866b1fcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Géométrie/Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "614b0bdc28ccbdd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distance plan droite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d20f5bb451cb6e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Cours/Géométrie/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Cours/Géométrie/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Cours/Géométrie/Plan.md"
+              }
             }
           },
           {
@@ -200,8 +196,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a081d8ebe06667a8",
+  "active": "157eb0e1866b1fcc",
   "lastOpenFiles": [
+    "Distance plan droite.md",
+    "Maths/Cours/Géométrie/Plan.md",
+    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+    "Plan mediateur.md",
+    "Maths/Cours/Géométrie/Géométrie.md",
+    "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
     "Maths/Maths - Index.md",
     "Maths/Cours/Calcul/Nombres irrationnels.md",
     "Maths/Cours/Calcul/Ensembles de nombre.md",
@@ -210,7 +213,7 @@
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
     "Maths/Maths doc.md",
-    "Maths/Cours/Géométrie/Probabilité totale.md",
+    "Maths/Cours/Probabilité/Probabilité totale.md",
     "Maths/Exemples/Suite",
     "Maths/Exemples/Probabilité",
     "Maths/Exemples/Formules",
@@ -230,14 +233,7 @@
     "TestJS.md",
     "Maths/Cours/Etude fonction/Exponentielle.md",
     "Maths/Cours/Etude fonction/Equation différentielle.md",
-    "Maths/Cours/Géométrie/Plan.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
-    "NSI/Réseaux/Protocole OSPF.md",
-    "NSI/Réseaux/Protocoles internet.md",
     "test.js",
-    "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
-    "Maths/Cours/Suite/Limite de suite.md",
-    "Maths/Cours/Géométrie/Géométrie.md",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF.png.0.pdnSave",
