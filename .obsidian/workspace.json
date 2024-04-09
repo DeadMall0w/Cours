@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "92fd24bdaf4831b8",
-        "type": "tabs",
-        "dimension": 60.0253807106599,
-        "children": [
-          {
-            "id": "6c8000eedd93b815",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maths/Images/Intégrales Numworks 1.png"
-              }
-            }
-          },
-          {
-            "id": "e397a0fd0aeab99a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maths/Images/Intégrales Numworks 2.png"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "53e657ef2b4cc139",
         "type": "tabs",
-        "dimension": 39.974619289340104,
         "children": [
           {
             "id": "a0c830d692a39700",
@@ -63,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1de645859d817b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Intégrales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Images/Intégrales Numworks 2.png",
+                "file": "Maths/Intégrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Images/Intégrales Numworks 2.png",
+                "file": "Maths/Intégrales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Images/Intégrales Numworks 2.png"
+                "file": "Maths/Intégrales.md"
               }
             }
           },
@@ -205,12 +188,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3b9dc1cb12e49e2",
+  "active": "1de645859d817b32",
   "lastOpenFiles": [
+    "Maths/A faire en maths.md",
     "Maths/Images/Intégrales Numworks 1.png",
+    "Maths/Images/Intégrales Numworks 2.png",
     "Maths/Intégrales.md",
     "Maths/Images/Pasted image 20240409230821.png",
-    "Maths/Images/Intégrales Numworks 2.png",
     "Maths/Images/Intégrales Numworks 3.png",
     "Maths/Images/Intégrales Numworks 4.png",
     "Maths/Images/Intégrales Numworks 5.png",
@@ -221,7 +205,6 @@
     "Maths/Images/Non confirmé 233231.crdownload",
     "Maths/Images/integrale-exemple.webp",
     "Maths/Images/integrale-exemple.webp.crdownload",
-    "Maths/A faire en maths.md",
     "Maths/Maths - Index.md",
     "Maths/Maths doc.md",
     "Maths/Plan mediateur.md",

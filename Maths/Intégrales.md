@@ -20,7 +20,7 @@ A FAIRE : rajouter d'autres exemples
 ## Exemple - intégrale de signe quelconque
 A FAIRE 
 ## Exemple - Valeur moyenne 
-
+A FAIRE 
 
 
 # Astuce sur Numworks
