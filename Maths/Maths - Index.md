@@ -15,6 +15,7 @@
 	- [ ] [[Limite]]
 	- [ ] [[Primitives]]
 	- [ ] [[Equations Différentielles]]
+	- [ ] [[Intégrales]]
 - [ ] [[Géométrie]]
 	- [ ] [[Vecteurs]]
 	- [ ] [[Droite paramétrique ]]
@@ -29,8 +30,10 @@
 	- [ ] [[Théorème de comparaison]]
 - [ ] [[Ensembles de nombre]]
 	- [ ] [[Nombres rationnels]]
-	- [ ] [[Nombres irrationnels]]
-- [ ] Formules
+	- [x] [[Nombres irrationnels]]
+- [ ] Statistique
+	- [ ] [[Moyenne, equart-type, ...]]
+- [ ] [[Formules]]
 	- [ ] [[puissance]]
 	- [ ] [[fraction]]
 - [ ] Tips 

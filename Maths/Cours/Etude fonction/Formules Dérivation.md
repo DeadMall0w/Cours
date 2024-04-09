@@ -1,21 +1,21 @@
 # Formules dérivation
-| Fonction | Dérivée | Interval |
-| ---- | ---- | ---- |
-| $c (Constante)$ | $0$ | $\mathbb{R}$ |
-| $x$ | $1$ | $\mathbb{R}$ |
-| $ax$ | $a$ | $\mathbb{R}$ |
-| $x^{2}$ | $2x$ | $\mathbb{R}$ |
-| $x^{n}$ | $nx^{n-1}$ | $\mathbb{R}$ |
-| $u^{n}$ | $n\times u'\times u^{n-1}$ | $\mathbb{R}$ |
-| $\sqrt{ x }$ | $\dfrac{1}{2\sqrt{ x }}$ | $]0;+\infty[]$ |
-| $\dfrac{1}{x}$ | $-\dfrac{1}{x^{2}}$ | $\mathbb{R}$ |
-| $\sin x$ | $\cos x$ | $\mathbb{R}$ |
-| $\cos x$ | $-\sin x$ | $\mathbb{R}$ |
-| $\sin u$ | $u'\times \cos u$ | $\mathbb{R}$ |
-| $\cos u$ | $-u'\times \sin u$ | $\mathbb{R}$ |
-| $\ln u$ | $\dfrac{u'}{u}$ | $u>0$ |
-| $e^{ u }$ | $u'\times e^{ u }$ | $\mathbb{R}$ |
-|  |  |  |
+| Fonction        | Dérivée                    | Interval       |
+| --------------- | -------------------------- | -------------- |
+| $c (Constante)$ | $0$                        | $\mathbb{R}$   |
+| $x$             | $1$                        | $\mathbb{R}$   |
+| $ax$            | $a$                        | $\mathbb{R}$   |
+| $x^{2}$         | $2x$                       | $\mathbb{R}$   |
+| $x^{n}$         | $nx^{n-1}$                 | $\mathbb{R}$   |
+| $u^{n}$         | $n\times u'\times u^{n-1}$ | $\mathbb{R}$   |
+| $\sqrt{ x }$    | $\dfrac{1}{2\sqrt{ x }}$   | $]0;+\infty[]$ |
+| $\dfrac{1}{x}$  | $-\dfrac{1}{x^{2}}$        | $\mathbb{R}$   |
+| $\sin x$        | $\cos x$                   | $\mathbb{R}$   |
+| $\cos x$        | $-\sin x$                  | $\mathbb{R}$   |
+| $\sin u$        | $u'\times \cos u$          | $\mathbb{R}$   |
+| $\cos u$        | $-u'\times \sin u$         | $\mathbb{R}$   |
+| $\ln u$         | $\dfrac{u'}{u}$            | $u>0$          |
+| $e^{ u }$       | $u'\times e^{ u }$         | $\mathbb{R}$   |
+|                 |                            |                |
 Faire les formes plus complexes telles que U/v ou u * v
 # Formules primitives
 Ici, $C$ est une constante sur $\mathbb{R}$.
