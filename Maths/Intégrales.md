@@ -26,17 +26,17 @@ A FAIRE
 # Astuce sur Numworks
 On peut vérifier les dérivées a l'aide de la calculatrice.
  1. Allez dans "Calculs"
-    ![[Pasted image 20240409230825.png]]
+    ![[Intégrales Numworks 1.png]]
 2. Appuyez sur "Boîte à outils"
-   ![[Pasted image 20240409230944.png]]
+   ![[Intégrales Numworks 2.png]]
 3. Allez dans le menu "Analyse"
-   ![[Pasted image 20240409231106.png]]
+   ![[Intégrales Numworks 3.png]]
 4. Cliquez sur "Intégrale"
-   ![[Pasted image 20240409231222.png]]
+   ![[Intégrales Numworks 4.png]]
 5. Renseignez les champs, comme ici avec : f(x) = x², sur [0;1]
-   ![[Pasted image 20240409231322.png]]
+   ![[Intégrales Numworks 5.png]]
 > [!note] Note
 > Les résultats sont des approximations et non des valeurs exactes. Exemple avec $\dfrac{1}{3}$ qui donne $0.3333333$
-> ![[Pasted image 20240409231529.png]]
+> ![[Intégrales Numworks 6.png]]
 
 
