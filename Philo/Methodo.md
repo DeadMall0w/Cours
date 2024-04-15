@@ -1,9 +1,4 @@
-# Intro
-- 3 parties
-	- définit les thermes
-	- On montre vraiment les oppositions 
 
-# Le dev
 ## Intro
 - Analyse des thermes
 - Formulation d'un paradoxe (confrontation entre 2 affirmations qui se justifient toutes les 2, mais qui sont opposée).

@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37fe8ac7133750ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
+                "file": "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
+                "file": "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md"
+                "file": "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md"
               }
             }
           },
@@ -238,8 +250,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 419,
-        "y": 104,
+        "x": 934,
+        "y": 165,
         "width": 1024,
         "height": 800,
         "maximize": true,
@@ -247,17 +259,20 @@
       }
     ]
   },
-  "active": "4ce4ddcaf0e7baf9",
+  "active": "37fe8ac7133750ef",
   "lastOpenFiles": [
-    "Philo/Page 27 - 39.md",
     "Philo/Chapitre 2 (Travail)/Travail.md",
+    "Philo/Methodo.md",
     "Philo/Conaissance.md",
-    "Chrématistie.md",
+    "Philo/Page 27 - 39.md",
+    "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md",
+    "Philo/Chapitre 3 (Art et Technique)",
     "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
+    "Philo/Chapite 1 (Bonheur)/Aristote - Ethique a Nicomaque.md",
+    "Chrématistie.md",
     "Philo/Chapitre 2 (Travail)",
     "Philo/Chapite 1 (Bonheur)/Seneque - De la brieveté de la vie.md",
     "Philo/Chapite 1 (Bonheur)/Epicure - Lettre à Ménécée.md",
-    "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Philebe.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
@@ -265,7 +280,6 @@
     "Maths/A faire en maths.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
     "Philo/Chapite 1 (Bonheur)/Kant - Fondation de la métaphysique des moeurs.md",
-    "Philo/Methodo.md",
     "NSI/Arbre Binaire.md",
     "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
     "NSI/Réseaux/Réseaux.md",
@@ -289,12 +303,10 @@
     "Maths/Images/integrale-exemple.webp.crdownload",
     "Maths/Maths doc.md",
     "Maths/Plan mediateur.md",
-    "Maths/Cours/Probabilité/Probabilité totale.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images",
     "Maths/Exemples/Suite",
     "Maths/Exemples/Probabilité",
-    "Maths/Exemples/Formules",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",

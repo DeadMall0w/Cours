@@ -1,18 +1,15 @@
 # 0 - Intro
 ## Ethique a nicomaque
-[[Ethique a Nicomaque]]
+[[Aristote - Ethique a Nicomaque]]
 These du souverains bien C'est une fin qui n'est pour aucune autres fin. Tout le monde recherche le bonheur tout le temps.
 ## Kant fondation de la méthaphysique des moeurs
 [[Kant - Fondation de la métaphysique des moeurs]]
 le bonheur n'est pas définissable Il faudrait être omniscient pour le faire. C'est un idéal de l'imagination
-# I LE bonheur consiste à satisfaire ses désirs
+# I Le bonheur consiste à satisfaire ses désirs
 [[Platon - Banquet]]
 Mythe des Androgene, il essaye de trouver une explication par le mythe. quete de retrouver notre moitié, une souffrance passé. L'amour est le fondement de tous désirs.
 [[Platon - Philebe]]
 Tout désir résorbe un manque, mais mène à un autre désir. Donc, le bonheur serait la chose qui mettrait fin à tous les désirs, et non à leurs quêtes.
-
-
-
 
 # II Bien vivre, c'est vivre libre
 ## A - Malheurs de l'affairement
