@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0c830d692a39700",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Maths - Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2d2219b8d36bb1de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/A faire en maths.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1de645859d817b32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd22bd5b4040ade9",
             "type": "leaf",
             "state": {
@@ -58,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff90ab77f34d1e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md"
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md"
               }
             }
           },
@@ -200,17 +172,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1de645859d817b32",
+  "active": "ff90ab77f34d1e5c",
   "lastOpenFiles": [
+    "Philo/Chapite 1 (Bonheur)/Platon - Philebe.md",
+    "Philo/Conaissance.md",
+    "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
     "Philo/Chapite 1 (Bonheur)/Bonheur Intro.md",
+    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
+    "Maths/Maths - Index.md",
+    "Maths/A faire en maths.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
     "Philo/Chapite 1 (Bonheur)/Kant - Fondation de la métaphysique des moeurs.md",
     "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
     "Philo/Page 27 - 39.md",
     "Philo/Methodo.md",
-    "Philo/Conaissance.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
-    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
     "NSI/Arbre Binaire.md",
     "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
     "NSI/Réseaux/Réseaux.md",
@@ -219,7 +195,6 @@
     "Maths/Intégrales.md",
     "My Vault/Project Board.md",
     "My Vault",
-    "Maths/A faire en maths.md",
     "Maths/Images/Intégrales Numworks 1.png",
     "Maths/Images/Intégrales Numworks 2.png",
     "Maths/Images/Pasted image 20240409230821.png",
@@ -233,15 +208,12 @@
     "Maths/Images/Non confirmé 233231.crdownload",
     "Maths/Images/integrale-exemple.webp",
     "Maths/Images/integrale-exemple.webp.crdownload",
-    "Maths/Maths - Index.md",
     "Maths/Maths doc.md",
     "Maths/Plan mediateur.md",
     "Maths/Cours/Probabilité/Probabilité totale.md",
     "Maths/Distance plan droite.md",
     "TestJS.md",
     "Maths/Formules.md",
-    "Maths/Cours/Géométrie/Produit scalaire.md",
-    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images",
     "Maths/Exemples/Suite",
