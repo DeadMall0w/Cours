@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md"
+                "file": "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md"
               }
             }
           },
@@ -203,6 +203,8 @@
   "active": "1de645859d817b32",
   "lastOpenFiles": [
     "Philo/Chapite 1 (Bonheur)/Bonheur Intro.md",
+    "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
+    "Philo/Chapite 1 (Bonheur)/Kant - Fondation de la métaphysique des moeurs.md",
     "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
     "Philo/Page 27 - 39.md",
     "Philo/Methodo.md",
@@ -240,8 +242,6 @@
     "Maths/Formules.md",
     "Maths/Cours/Géométrie/Produit scalaire.md",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Maths/Cours/Calcul/Nombres irrationnels.md",
-    "Maths/LaTeX.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images",
     "Maths/Exemples/Suite",
