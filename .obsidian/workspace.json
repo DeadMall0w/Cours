@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Bonheur Intro.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
+                "file": "Philo/Chapite 1 (Bonheur)/Seneque - De la brieveté de la vie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a9dc69ef5a6666e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philo/Conaissance.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4ce4ddcaf0e7baf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
+                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
+                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md"
+                "file": "Philo/Chapitre 2 (Travail)/Travail.md"
               }
             }
           },
@@ -154,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,21 +197,74 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff90ab77f34d1e5c",
+  "floating": {
+    "id": "43596c1ddfd1fd7f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "59ac645a6d6027e1",
+        "type": "window",
+        "children": [
+          {
+            "id": "97a6d9cb8fd90ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8085942156ac0500",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Philo/Page 27 - 39.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "41f5fea8a5d7af6e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Philo/Conaissance.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 419,
+        "y": 104,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4ce4ddcaf0e7baf9",
   "lastOpenFiles": [
-    "Philo/Chapite 1 (Bonheur)/Platon - Philebe.md",
+    "Philo/Page 27 - 39.md",
+    "Philo/Chapitre 2 (Travail)/Travail.md",
     "Philo/Conaissance.md",
+    "Chrématistie.md",
+    "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
+    "Philo/Chapitre 2 (Travail)",
+    "Philo/Chapite 1 (Bonheur)/Seneque - De la brieveté de la vie.md",
+    "Philo/Chapite 1 (Bonheur)/Epicure - Lettre à Ménécée.md",
+    "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Gorgias.md",
-    "Philo/Chapite 1 (Bonheur)/Bonheur Intro.md",
+    "Philo/Chapite 1 (Bonheur)/Platon - Philebe.md",
     "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée (texte).md",
     "Maths/Maths - Index.md",
     "Maths/A faire en maths.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
     "Philo/Chapite 1 (Bonheur)/Kant - Fondation de la métaphysique des moeurs.md",
-    "Philo/Chapite 1 (Bonheur)/Ethique a Nicomaque.md",
-    "Philo/Page 27 - 39.md",
     "Philo/Methodo.md",
-    "Philo/Chapite 1 (Bonheur)/Lettre à Ménécée études.md",
     "NSI/Arbre Binaire.md",
     "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
     "NSI/Réseaux/Réseaux.md",
@@ -211,15 +289,11 @@
     "Maths/Maths doc.md",
     "Maths/Plan mediateur.md",
     "Maths/Cours/Probabilité/Probabilité totale.md",
-    "Maths/Distance plan droite.md",
-    "TestJS.md",
-    "Maths/Formules.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images",
     "Maths/Exemples/Suite",
     "Maths/Exemples/Probabilité",
     "Maths/Exemples/Formules",
-    "Maths/Exemples/Etude fonction",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",

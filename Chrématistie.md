@@ -1,0 +1,1 @@
+Permet la richesse pour elle même.
