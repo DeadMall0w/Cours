@@ -21,7 +21,7 @@ Les arbres binaires sont des structures de données non linéaire, ils sont util
 # Types d'arbres
 ## **Filiforme**  ou **dégénéré**
 ![[Pasted image 20231127173947.png]]
-Tous les noeud possede un unique enfant sauf le dernier (J) qui est une feuille
+Tous les noeuds possedent un unique enfant sauf le dernier (J) qui est une feuille
 ## **Localement complet** ou **strict** 
 ![[Pasted image 20231127174137.png]]
 Tous les noeuds sont soit des feuilles ou ont 2 enfants. 
@@ -68,7 +68,8 @@ Pour calculer la taille d'un arbre binaire, nous pouvons utiliser un algorithme 
 ## Hauteur de l'arbre
 Pour calculer la hauteur d'un arbre binaire, nous pouvons utiliser un algorithme par récurrence
 
-**ATTENTION, dans la condition d'arrêt il faut return -1, car l'algorithme compte les sous arbres vides**
+> [!danger] Attention
+**ATTENTION, dans la condition d'arrêt il faut "return -1", car l'algorithme compte les sous arbres vides**
 ## Implémentation orienté objet :
 ```python
 def hauteur(self):
@@ -159,7 +160,7 @@ def trouver(self, el): #Renvoie true si l'élement est présent et False s'il n'
     else:
         return self.sad.trouver(el)
 ```
-**Les algorithmes de recherche ont un coup logarithmique : n * log(n)**
+**Les algorithmes de recherche ont un cout logarithmique : n * log(n)** [[Cout algorithme]]
 ## Algorithme d'insertion
 ```python
 def inserer(self, cle):

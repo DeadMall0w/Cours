@@ -15,7 +15,7 @@ Il suffit ensuite d'appliquer la [[Porte ET]] a ces 2 nombres
 On reconvertit en nombre entier
 Adresse réseau : 192.168.1.0
 
-## Trouver le nombre d'appareil connecté
+## Trouver le nombre d'appareil connectable
 On peut trouver le nombre d'appareil maximum qu'on peut connecté un réseau en meme temps, a l'aide du masque de sous réseau
 
 Il faut compter combien de bit sont a 0.

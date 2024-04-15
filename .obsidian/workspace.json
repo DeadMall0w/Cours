@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Intégrales.md",
+                "file": "NSI/Arbre Binaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Intégrales.md",
+                "file": "NSI/Arbre Binaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Intégrales.md",
+                "file": "NSI/Arbre Binaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Intégrales.md"
+                "file": "NSI/Arbre Binaire.md"
               }
             }
           },
@@ -190,12 +190,16 @@
   },
   "active": "1de645859d817b32",
   "lastOpenFiles": [
+    "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
+    "NSI/Réseaux/Réseaux.md",
+    "NSI/Réseaux/Protocoles internet.md",
+    "NSI/Réseaux/Protocole OSPF.md",
+    "Maths/Intégrales.md",
     "My Vault/Project Board.md",
     "My Vault",
     "Maths/A faire en maths.md",
     "Maths/Images/Intégrales Numworks 1.png",
     "Maths/Images/Intégrales Numworks 2.png",
-    "Maths/Intégrales.md",
     "Maths/Images/Pasted image 20240409230821.png",
     "Maths/Images/Intégrales Numworks 3.png",
     "Maths/Images/Intégrales Numworks 4.png",
@@ -218,7 +222,6 @@
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
     "Maths/Cours/Calcul/Nombres irrationnels.md",
     "Maths/LaTeX.md",
-    "NSI/Réseaux/Protocole OSPF.md",
     "ES - Physique Chimie - 2 siècle d'énergie.md",
     "Maths/Cours/Etude fonction/Formules Dérivation.md",
     "Maths/Cours/Etude fonction/Dérivation.md",
@@ -229,13 +232,10 @@
     "Maths/Cours/Calcul/Ensembles de nombre.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images",
-    "Maths/Cours/Géométrie/Probabilité totale.md",
     "Maths/Exemples/Suite",
     "Maths/Exemples/Probabilité",
     "Maths/Exemples/Formules",
     "Maths/Exemples/Etude fonction",
-    "Maths/Exemples/Untitled.md",
-    "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
