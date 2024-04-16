@@ -6,7 +6,9 @@
 		{"id":"f7a576f714c8b92a","type":"text","text":"[[Arrangement]] $\\dfrac{n!}{(n-p)!}$ \n","x":330,"y":-152,"width":330,"height":72},
 		{"id":"ba469ccc6b2bc5de","type":"text","text":"SUCESSIVEMENT ","x":-400,"y":-356,"width":240,"height":60,"color":"5"},
 		{"id":"6b51775bc0bceee0","type":"text","text":"[[Combinaison]] (n/p)","x":-16,"y":80,"width":287,"height":80},
-		{"id":"302028c7a1f6a55e","type":"text","text":"SANS REMISE","x":370,"y":-50,"width":250,"height":60,"color":"5"}
+		{"id":"302028c7a1f6a55e","type":"text","text":"SANS REMISE","x":370,"y":20,"width":250,"height":60,"color":"5"},
+		{"id":"20db56c6c9cf76be","x":330,"y":-212,"width":250,"height":60,"type":"text","text":"[[Permutation]] $n!$"},
+		{"id":"80a4b70545984f2f","x":344,"y":-460,"width":250,"height":60,"color":"5","type":"text","text":"AVEC REMISE"}
 	],
 	"edges":[
 		{"id":"d80889f84aa2a5d0","fromNode":"1cff526d52a6967d","fromSide":"right","toNode":"b2b3ca0afd511746","toSide":"left","label":"Oui"},
@@ -14,6 +16,7 @@
 		{"id":"8d590b4d03e3e651","fromNode":"b2b3ca0afd511746","fromSide":"right","toNode":"7553a0b231dab39a","toSide":"left","label":"Oui"},
 		{"id":"a95d9575e35db1c4","fromNode":"b2b3ca0afd511746","fromSide":"right","toNode":"f7a576f714c8b92a","toSide":"left","label":"Non"},
 		{"id":"ff09284010cddced","fromNode":"ba469ccc6b2bc5de","fromSide":"bottom","toNode":"b2b3ca0afd511746","toSide":"left","color":"5"},
-		{"id":"e09d331f07cfe262","fromNode":"302028c7a1f6a55e","fromSide":"top","toNode":"f7a576f714c8b92a","toSide":"bottom","color":"5"}
+		{"id":"e09d331f07cfe262","fromNode":"302028c7a1f6a55e","fromSide":"top","toNode":"f7a576f714c8b92a","toSide":"bottom","color":"5"},
+		{"id":"01dcedd2eabb17b1","fromNode":"80a4b70545984f2f","fromSide":"bottom","toNode":"7553a0b231dab39a","toSide":"top","color":"5"}
 	]
 }
