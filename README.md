@@ -1,10 +1,16 @@
 # Cours
-Ici sont présent mes cours sous format markdown (plus précisément avec obsidian, mais compatible avec d'autres logiciel). Ce sont des cours de NSI (Numérique et science informatique), maths et philo de mes années de lycée.
+Ici sont présentés mes cours sous format Markdown (plus précisément avec Obsidian, mais compatible avec d'autres logiciels). Ce sont des cours de NSI (Numérique et Science Informatique), de maths et de philo de mes années de lycée.
 
 # Attention
-Tous les cours ne sont pas finit d'être écrit, et ou peuvent comporter quelques erreurs. Si vous voulez participer a ce projet (titanesque) votre aide est la bienvenue ! (contactez moi!).
+Tous les cours ne sont pas encore finis d'être écrits, et peuvent comporter quelques erreurs. Si vous voulez participer à ce projet (titanesque), votre aide est la bienvenue ! (Contactez-moi !).
+
 # Futur
-Il est prévu d'ici peut, une version html pour une lecture sans logiciel depuis pc et smartphone, cette fonctionnalité est prévue d'ici début mai 2024.
-Il est aussi prévu que, si j'ai encore le temps de continuer ce projet pour mes prochaines années sur parcoursup. 
-# Remerciement
+Il est prévu d'ici peu une version HTML pour une lecture sans logiciel depuis un ordinateur ou un smartphone. Cette fonctionnalité est prévue pour début mai 2024. Il est aussi prévu que, si j'ai encore le temps, je continuerai ce projet pour mes prochaines années d'études.
+
+# Remerciements
 Un grand merci à tous ceux qui ont aidé pour ce projet !
+
+# License
+Vous êtes libre de faire tout ce que vous voulez avec ce projet, que ce soit sa publication, sa modification, son utilisation personnelle, à l'exception de sa commercialisation.
+
+You are free to do whatever you want with this project, whether it's publishing, modifying, using it personally, except for commercial purposes.
