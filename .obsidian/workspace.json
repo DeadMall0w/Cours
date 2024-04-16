@@ -28,9 +28,9 @@
               "state": {
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "viewState": {
-                  "x": 108,
-                  "y": -31,
-                  "zoom": 0
+                  "x": 264.3224146057898,
+                  "y": -170.15103466314997,
+                  "zoom": -0.6666666666666667
                 }
               },
               "pinned": true
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,9 +71,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b2955cebe26e54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1aef7c83bd9beea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59e840733a71866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b4d6cf22854005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factorielle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -139,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Factorielle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Factorielle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Factorielle.md"
               }
             }
           },
@@ -214,19 +262,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1d9ce4ae48511d4",
+  "active": "d1b4d6cf22854005",
   "lastOpenFiles": [
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
-    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
     "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
+    "Factorielle.md",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
+    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
+    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+    "README.md",
     "Maths/Cours/Probabilité/Dénombrement/P-Uplet.md",
     "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
     "Philo/Chapite 1 (Bonheur)/Seneque - De la brieveté de la vie.md",
     "Philo/Conaissance.md",
     "Maths/Cours/Probabilité/Dénombrement/Anagrammes.md",
-    "README.md",
     "Maths/Cours/Géométrie/Distance plan droite.md",
     "TestJS.md",
     "Autres",
@@ -260,7 +310,6 @@
     "Maths/Images/Non confirmé 233231.crdownload",
     "Maths/Images/integrale-exemple.webp",
     "Maths/Images/integrale-exemple.webp.crdownload",
-    "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",

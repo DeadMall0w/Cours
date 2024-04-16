@@ -1,13 +1,16 @@
 # Utilisation
 Utilisé quand:
-- l'ordre compte, cad que "ab" et "ba", ne sont pas pareil
-- Il y a répétition, ex : "aba", un element peux etre utilisé 2 fois
+- l'ordre **ne** compte **pas**, cad que "ab" et "ba", sont **pareil**
 > [!note] Ici, on utilise des lettres, mais ce n'est pas toujours le cas, des cartes peuvent être utilisé, mais elles doivent suivre les règles dites précedemment
 # Exemple :
-Combien mot de 3 lettres de l'alphabet peut-on former (abc, abb, zot, rap, ...)
-Il suffit de faire $26^{3}$
-Puisque pour la première lettre il y a 26 possibilités, de meme pour la 2eme et la 3eme, alors $26\times 26\times 26 = 26^{3}$
+On dispose de 6 jetons marqués des 6 couleurs différentes. On tire simultanément 3 jetons.
+Combien de possibilités existe-t-il ?
+On tire 3 éléments parmi 6
+$\binom{6}{3}$
 # Formule 
-$\binom{n}{k}$
-p : nombre de tirage
-n : Nombre de possibilité par tirage
+$\binom{n}{p} = \dfrac{n!}{p!(n-p)!}$
+p : nombre d'éléments tiré de tirage
+n : Nombre d'éléments totaux
+> [!tip] TIP
+>  Le plus grand nombre est toujours au dessus
+

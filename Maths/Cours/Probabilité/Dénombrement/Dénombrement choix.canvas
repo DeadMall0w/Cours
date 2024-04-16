@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"1cff526d52a6967d","type":"text","text":"Résultat ordonné ? (ab = ba)?","x":-400,"y":-120,"width":300,"height":100},
 		{"id":"b2b3ca0afd511746","type":"text","text":"Répétition","x":-16,"y":-233,"width":250,"height":60},
 		{"id":"7553a0b231dab39a","type":"text","text":"[[P-Uplet]] $n^{p}$","x":344,"y":-326,"width":250,"height":60},
 		{"id":"f7a576f714c8b92a","type":"text","text":"[[Arrangement]] $\\dfrac{n!}{(n-p)!}$ \n","x":330,"y":-152,"width":330,"height":72},
 		{"id":"ba469ccc6b2bc5de","type":"text","text":"SUCESSIVEMENT ","x":-400,"y":-356,"width":240,"height":60,"color":"5"},
-		{"id":"6b51775bc0bceee0","type":"text","text":"[[Combinaison]] $\\binom{n}{k}$","x":-16,"y":80,"width":250,"height":60},
+		{"id":"6b51775bc0bceee0","type":"text","text":"[[Combinaison]] $\\binom{n}{k} =  = \\dfrac{n!}{p!(n-p)!}$","x":-80,"y":50,"width":424,"height":90},
 		{"id":"302028c7a1f6a55e","type":"text","text":"SANS REMISE","x":370,"y":20,"width":250,"height":60,"color":"5"},
 		{"id":"20db56c6c9cf76be","x":330,"y":-212,"width":250,"height":60,"type":"text","text":"[[Permutation]] $n!$"},
 		{"id":"80a4b70545984f2f","x":344,"y":-460,"width":250,"height":60,"color":"5","type":"text","text":"AVEC REMISE"},
-		{"id":"36396bcce28cb1e9","x":-16,"y":180,"width":250,"height":60,"color":"5","type":"text","text":"SIMULTANEMENT"}
+		{"id":"36396bcce28cb1e9","x":-16,"y":180,"width":250,"height":60,"color":"5","type":"text","text":"SIMULTANEMENT"},
+		{"id":"1cff526d52a6967d","type":"text","text":"Résultat ordonné ? (ab = ba)?","x":-500,"y":-116,"width":300,"height":80}
 	],
 	"edges":[
 		{"id":"d80889f84aa2a5d0","fromNode":"1cff526d52a6967d","fromSide":"right","toNode":"b2b3ca0afd511746","toSide":"left","label":"Oui"},
