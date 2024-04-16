@@ -51,18 +51,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37fe8ac7133750ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
                 "mode": "source",
                 "source": false
@@ -70,17 +58,26 @@
             }
           },
           {
-            "id": "fa2805a2e5b078e0",
+            "id": "ff28b9f55cc86e4e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
-                "viewState": {
-                  "x": 97,
-                  "y": -139.5,
-                  "zoom": 0
-                }
+                "file": "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e4340754ef280e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Probabilité/Dénombrement/P-Uplet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Chapitre 2 (Travail)/Travail.md"
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md"
               }
             }
           },
@@ -208,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,15 +225,21 @@
   },
   "active": "4ce4ddcaf0e7baf9",
   "lastOpenFiles": [
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
+    "Maths/Cours/Probabilité/Dénombrement/Untitled.md",
+    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
     "Maths/Cours/Probabilité/Dénombrement/P-Uplet.md",
+    "anagrammes.md",
+    "Maths/Cours/Probabilité/Dénombrement/Coefficient binomial.md",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
+    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+    "Maths/Cours/Probabilité/Binomiale.md",
+    "Philo/Chapitre 2 (Travail)/Travail.md",
     "Maths/Cours/Probabilité/Dénombrement.md",
     "TestJS.md",
     "Maths/Cours/Probabilité/Dénombrement",
     "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md",
     "Philo/Page 27 - 39.md",
-    "Philo/Chapitre 2 (Travail)/Travail.md",
     "Philo/Methodo.md",
     "Philo/Conaissance.md",
     "Philo/Chapitre 3 (Art et Technique)",
@@ -251,11 +255,6 @@
     "Maths/Maths - Index.md",
     "Maths/A faire en maths.md",
     "Philo/Chapite 1 (Bonheur)/Platon - Banquet.md",
-    "Philo/Chapite 1 (Bonheur)/Kant - Fondation de la métaphysique des moeurs.md",
-    "NSI/Arbre Binaire.md",
-    "NSI/Réseaux/Utilisation des masques de sous-réseaux.md",
-    "NSI/Réseaux/Réseaux.md",
-    "NSI/Réseaux/Protocoles internet.md",
     "My Vault",
     "Maths/Images/Intégrales Numworks 1.png",
     "Maths/Images/Intégrales Numworks 2.png",
