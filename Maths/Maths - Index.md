@@ -4,7 +4,7 @@
 	- [ ] [[Probabilité conditionnelle]]
 	- [ ] [[Probabilité totale]]
 	- [ ] [[Binomiale]]
-- [ ] [[Maths/Cours/Probabilité/Dénombrement]]
+- [x] [[Dénombrement]]
 - [ ] [[Etude de fonction]]
 	- [ ] [[Dérivation]]
 	- [ ] [[Tangente]]

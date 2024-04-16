@@ -28,8 +28,8 @@
               "state": {
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "viewState": {
-                  "x": 264.3224146057898,
-                  "y": -170.15103466314997,
+                  "x": 602.4388386750162,
+                  "y": 77.48352944388921,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -37,91 +37,17 @@
             }
           },
           {
-            "id": "c0de68ee0b7643d7",
+            "id": "fe7d56e846a98d7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "535ab4e42264f8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1d9ce4ae48511d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b2955cebe26e54a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1aef7c83bd9beea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e59e840733a71866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1b4d6cf22854005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factorielle.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factorielle.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factorielle.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factorielle.md"
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas"
               }
             }
           },
@@ -262,40 +188,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1b4d6cf22854005",
+  "active": "a42f87fc043d789b",
   "lastOpenFiles": [
-    "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
-    "Factorielle.md",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
-    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
-    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
-    "README.md",
-    "Maths/Cours/Probabilité/Dénombrement/P-Uplet.md",
-    "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
-    "Philo/Chapite 1 (Bonheur)/Seneque - De la brieveté de la vie.md",
-    "Philo/Conaissance.md",
-    "Maths/Cours/Probabilité/Dénombrement/Anagrammes.md",
-    "Maths/Cours/Géométrie/Distance plan droite.md",
-    "TestJS.md",
-    "Autres",
-    "Maths/A faire en maths.md",
-    "Faire comme avant.md",
-    "Maths/Cours/A FAIRE 1.md",
-    "Maths/Cours/Probabilité/Dénombrement/Coefficient binomial.md",
-    "Maths/Cours/Probabilité/Binomiale.md",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
     "Philo/Chapitre 2 (Travail)/Travail.md",
-    "Maths/Cours/Probabilité/Dénombrement.md",
+    "Maths/Cours/Probabilité/Probabilité conditionnelle.md",
+    "Maths/Cours/Suite/Théorème Gendarme.md",
+    "Maths/Cours/Suite/Théorème de comparaison.md",
+    "Maths/Cours/Suite/Suite arithmétique.md",
+    "Maths/Cours/Suite/Suite arithmético-Géométrique.md",
+    "Maths/Cours/Suite/Suite.md",
+    "Maths/Cours/Suite/Limite de suite.md",
+    "Maths/Cours/Probabilité/Probabilité totale.md",
+    "Maths/Cours/Probabilité/Evenements indépendant.md",
+    "Maths/Cours/Probabilité/Probabilité.md",
+    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
+    "Maths/Maths - Index.md",
+    "Maths/Cours/Etude fonction/Primitives.md",
+    "Maths/Cours/Etude fonction/Valeurs continues.md",
+    "Maths/Cours/Etude fonction/Tangente.md",
+    "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
+    "Maths/Cours/Etude fonction/Intégrales.md",
+    "Maths/Cours/Etude fonction/Formules Dérivation.md",
+    "Maths/Cours/Etude fonction/Equation différentielle.md",
+    "Maths/Cours/Etude fonction/Exponentielle.md",
+    "Maths/Cours/Etude fonction/Etude de fonction.md",
+    "Maths/Cours/Etude fonction/Equations Différentielles.md",
+    "Maths/Cours/Etude fonction/Dérivation.md",
+    "Maths/Cours/Etude fonction/Convexité.md",
+    "Autres",
     "Maths/Cours/Probabilité/Dénombrement",
-    "Philo/Chapitre 3 (Art et Technique)/Faut-il opposer l'art et la technique.md",
-    "Philo/Page 27 - 39.md",
-    "Philo/Methodo.md",
     "Philo/Chapitre 3 (Art et Technique)",
-    "Philo/Chapite 1 (Bonheur)/Aristote - Ethique a Nicomaque.md",
-    "Philo/Chrématistie.md",
     "Philo/Chapitre 2 (Travail)",
-    "Philo/Chapite 1 (Bonheur)/Epicure - Lettre à Ménécée.md",
     "My Vault",
     "Maths/Images/Intégrales Numworks 1.png",
     "Maths/Images/Intégrales Numworks 2.png",
