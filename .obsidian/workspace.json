@@ -28,8 +28,8 @@
               "state": {
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "viewState": {
-                  "x": 130,
-                  "y": -98,
+                  "x": 108,
+                  "y": -31,
                   "zoom": 0
                 }
               },
@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,9 +59,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1d9ce4ae48511d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Permutation.md"
+                "file": "README.md"
               }
             }
           },
@@ -202,12 +214,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0de68ee0b7643d7",
+  "active": "a1d9ce4ae48511d4",
   "lastOpenFiles": [
-    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
-    "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
     "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
+    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+    "Maths/Cours/Probabilité/Dénombrement/Permutation.md",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement.md",
     "Maths/Cours/Probabilité/Dénombrement/P-Uplet.md",
     "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
