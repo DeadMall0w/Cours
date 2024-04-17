@@ -1,9 +1,3 @@
----
-title: 
-author: Raphaël
-date: YYYY-MM-DD
-completed: [ ]
----
 
 # Notions
 ## Introduction

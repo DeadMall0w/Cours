@@ -1,0 +1,5 @@
+- Dénombrement 70%
+- Géométrie 40%
+- Probabilité 0%
+- Suite 0%
+- Etude de fonction 0%

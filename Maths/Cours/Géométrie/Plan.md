@@ -1,6 +1,3 @@
-
-![[test.js]]
-
 # Introduction
 A FAIRE
 

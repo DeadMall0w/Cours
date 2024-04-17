@@ -28,8 +28,8 @@
               "state": {
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "viewState": {
-                  "x": 602.4388386750162,
-                  "y": 77.48352944388921,
+                  "x": 270.6720188136625,
+                  "y": 93.3575399635713,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -45,9 +45,21 @@
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png"
               }
             }
+          },
+          {
+            "id": "e31ca2c01f8ffa8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Cours/Probabilité/Binomiale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+                "file": "Maths/Cours/Probabilité/Binomiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+                "file": "Maths/Cours/Probabilité/Binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas"
+                "file": "Maths/Cours/Probabilité/Binomiale.md"
               }
             }
           },
@@ -188,10 +200,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a42f87fc043d789b",
+  "active": "e31ca2c01f8ffa8e",
   "lastOpenFiles": [
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
+    "Maths/A faire en maths.md",
+    "Maths/Cours/Géométrie/Produit scalaire.md",
+    "Maths/Cours/Géométrie/Plan mediateur.md",
+    "Maths/Cours/Géométrie/Plan.md",
+    "Maths/Cours/Géométrie/Géométrie.md",
+    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+    "Maths/Cours/Géométrie/Droite paramétrique.md",
+    "Maths/Cours/Géométrie/Distance plan droite.md",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
     "Philo/Chapitre 2 (Travail)/Travail.md",
     "Maths/Cours/Probabilité/Probabilité conditionnelle.md",
     "Maths/Cours/Suite/Théorème Gendarme.md",
@@ -210,13 +230,6 @@
     "Maths/Cours/Etude fonction/Tangente.md",
     "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
     "Maths/Cours/Etude fonction/Intégrales.md",
-    "Maths/Cours/Etude fonction/Formules Dérivation.md",
-    "Maths/Cours/Etude fonction/Equation différentielle.md",
-    "Maths/Cours/Etude fonction/Exponentielle.md",
-    "Maths/Cours/Etude fonction/Etude de fonction.md",
-    "Maths/Cours/Etude fonction/Equations Différentielles.md",
-    "Maths/Cours/Etude fonction/Dérivation.md",
-    "Maths/Cours/Etude fonction/Convexité.md",
     "Autres",
     "Maths/Cours/Probabilité/Dénombrement",
     "Philo/Chapitre 3 (Art et Technique)",
