@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité/Binomiale.md",
+                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Probabilité/Binomiale.md",
+                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Probabilité/Binomiale.md",
+                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Probabilité/Binomiale.md"
+                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Untitled.md"
               }
             }
           },
@@ -200,8 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e31ca2c01f8ffa8e",
+  "active": "f3b9dc1cb12e49e2",
   "lastOpenFiles": [
+    "Maths/Cours/Probabilité/Probabilité traditionnelle",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Epreuve de Bernoulli.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Untitled.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Binomiale.md",
     "Maths/A faire en maths.md",
     "Maths/Cours/Géométrie/Produit scalaire.md",
     "Maths/Cours/Géométrie/Plan mediateur.md",
@@ -213,7 +218,7 @@
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
     "Philo/Chapitre 2 (Travail)/Travail.md",
-    "Maths/Cours/Probabilité/Probabilité conditionnelle.md",
+    "Maths/Cours/Probabilité/Probabilité traditionnelle/Probabilité conditionnelle.md",
     "Maths/Cours/Suite/Théorème Gendarme.md",
     "Maths/Cours/Suite/Théorème de comparaison.md",
     "Maths/Cours/Suite/Suite arithmétique.md",
@@ -221,15 +226,11 @@
     "Maths/Cours/Suite/Suite.md",
     "Maths/Cours/Suite/Limite de suite.md",
     "Maths/Cours/Probabilité/Probabilité totale.md",
-    "Maths/Cours/Probabilité/Evenements indépendant.md",
+    "Maths/Cours/Probabilité/Probabilité traditionnelle/Evenements indépendant.md",
     "Maths/Cours/Probabilité/Probabilité.md",
     "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
     "Maths/Maths - Index.md",
     "Maths/Cours/Etude fonction/Primitives.md",
-    "Maths/Cours/Etude fonction/Valeurs continues.md",
-    "Maths/Cours/Etude fonction/Tangente.md",
-    "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
-    "Maths/Cours/Etude fonction/Intégrales.md",
     "Autres",
     "Maths/Cours/Probabilité/Dénombrement",
     "Philo/Chapitre 3 (Art et Technique)",
@@ -248,7 +249,6 @@
     "Maths/Images/Non confirmé 233231.crdownload",
     "Maths/Images/integrale-exemple.webp",
     "Maths/Images/integrale-exemple.webp.crdownload",
-    "Maths/Images",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
