@@ -28,8 +28,8 @@
               "state": {
                 "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "viewState": {
-                  "x": 270.6720188136625,
-                  "y": 93.3575399635713,
+                  "x": 369.0908840356908,
+                  "y": 2.8756800013838983,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -52,14 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md"
+                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas"
               }
             }
           },
@@ -200,14 +200,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e31ca2c01f8ffa8e",
+  "active": "a42f87fc043d789b",
   "lastOpenFiles": [
+    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
+    "Maths/Cours/Probabilité/Dénombrement/Coefficient binomial.md",
+    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
+    "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
     "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213639.png",
     "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213638.png",
     "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213505.png",
     "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213426.png",
     "Maths/Exemples/Probabilité/Binomiale/Schéma loi binomiale exemple 1.canvas",
-    "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
     "Maths/Exemples/Probabilité/Binomiale",
     "Maths/Cours/Probabilité/Probabilité Binomiale/Binomiale.md",
     "Loi Binomaile.md",
@@ -226,8 +231,6 @@
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
     "Maths/Cours/Géométrie/Droite paramétrique.md",
     "Maths/Cours/Géométrie/Distance plan droite.md",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
     "Philo/Chapitre 2 (Travail)/Travail.md",
     "Maths/Cours/Probabilité/Probabilité traditionnelle/Probabilité conditionnelle.md",
     "Maths/Cours/Suite/Théorème Gendarme.md",
@@ -237,8 +240,6 @@
     "Maths/Cours/Suite/Suite.md",
     "Maths/Cours/Suite/Limite de suite.md",
     "Maths/Cours/Probabilité/Probabilité totale.md",
-    "Maths/Cours/Probabilité/Probabilité traditionnelle/Evenements indépendant.md",
-    "Maths/Cours/Probabilité/Probabilité.md",
     "Autres",
     "Maths/Cours/Probabilité/Dénombrement",
     "Philo/Chapitre 3 (Art et Technique)",
@@ -249,7 +250,6 @@
     "Maths/Images/Pasted image 20240409230821.png",
     "Maths/Images/Intégrales Numworks 3.png",
     "Maths/Images/Intégrales Numworks 4.png",
-    "Maths/Images/Intégrales Numworks 5.png",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
