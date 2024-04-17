@@ -11,4 +11,4 @@ La loi de Bernoulli est lié aux [[Epreuve de Bernoulli|épreuves de Bernoulli]]
 On considère une pièce à 2 faces ("pile" ou "face"), on considère "obtenir pile" comme **succès** et "obtenir face" comme **échec**.
 Ici, p = $\dfrac{1}{2}$.
 
-A FAIRE : mieux faire la différence entre la loi de Bernoulli et l'epreuve de bernoulli (peux etre creer un fichier ?)
+A FAIRE : mieux faire la différence entre la loi de Bernoulli et l'épreuve de Bernoulli (peux etre creer un fichier ?)

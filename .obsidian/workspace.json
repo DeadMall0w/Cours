@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
+                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
+                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
+                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md"
+                "file": "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md"
               }
             }
           },
@@ -200,13 +200,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3b9dc1cb12e49e2",
+  "active": "e31ca2c01f8ffa8e",
   "lastOpenFiles": [
+    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213639.png",
+    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213638.png",
+    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213505.png",
+    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213426.png",
+    "Maths/Exemples/Probabilité/Binomiale/Schéma loi binomiale exemple 1.canvas",
+    "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
+    "Maths/Exemples/Probabilité/Binomiale",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Binomiale.md",
+    "Loi Binomaile.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Variables aléatoire.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
+    "Maths/Cours/Géométrie/3D",
+    "Maths/Cours/Géométrie/2D",
     "Maths/Cours/Probabilité/Probabilité traditionnelle",
     "Maths/Cours/Probabilité/Probabilité Binomiale/Epreuve de Bernoulli.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
     "Maths/Cours/Probabilité/Probabilité Binomiale",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Binomiale.md",
     "Maths/A faire en maths.md",
     "Maths/Cours/Géométrie/Produit scalaire.md",
     "Maths/Cours/Géométrie/Plan mediateur.md",
@@ -228,9 +239,6 @@
     "Maths/Cours/Probabilité/Probabilité totale.md",
     "Maths/Cours/Probabilité/Probabilité traditionnelle/Evenements indépendant.md",
     "Maths/Cours/Probabilité/Probabilité.md",
-    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-    "Maths/Maths - Index.md",
-    "Maths/Cours/Etude fonction/Primitives.md",
     "Autres",
     "Maths/Cours/Probabilité/Dénombrement",
     "Philo/Chapitre 3 (Art et Technique)",
@@ -242,13 +250,6 @@
     "Maths/Images/Intégrales Numworks 3.png",
     "Maths/Images/Intégrales Numworks 4.png",
     "Maths/Images/Intégrales Numworks 5.png",
-    "Maths/Images/Intégrales Numworks 6.png",
-    "Maths/Images/integrale-exemple.jpg.0.pdnSave",
-    "Maths/Images/integrale-exemple.jpg",
-    "Maths/Images/integrale-exemple",
-    "Maths/Images/Non confirmé 233231.crdownload",
-    "Maths/Images/integrale-exemple.webp",
-    "Maths/Images/integrale-exemple.webp.crdownload",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",

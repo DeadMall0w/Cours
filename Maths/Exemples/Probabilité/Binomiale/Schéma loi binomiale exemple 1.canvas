@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fa02be90ecb1c17c","x":-205,"y":-84,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2656157200c56ac6","x":221,"y":-282,"width":399,"height":60,"color":"4","type":"text","text":"S : Non commercialisable"},
+		{"id":"c62bf4993eed7c5f","x":212,"y":117,"width":408,"height":60,"color":"1","type":"text","text":"$\\bar{S}$ : E : Commercialisable"}
+	],
+	"edges":[
+		{"id":"acf6c37291996cdf","fromNode":"fa02be90ecb1c17c","fromSide":"right","toNode":"2656157200c56ac6","toSide":"left","color":"4","label":"0.03"},
+		{"id":"1ba9ba7efd03eb63","fromNode":"fa02be90ecb1c17c","fromSide":"right","toNode":"c62bf4993eed7c5f","toSide":"left","color":"1","label":"0.97"}
+	]
+}
