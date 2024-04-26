@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+                "file": "PSC1/Hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+                "file": "PSC1/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+                "file": "PSC1/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas"
+                "file": "PSC1/Hello.md"
               }
             }
           },
@@ -200,9 +199,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a42f87fc043d789b",
+  "active": "ff28b9f55cc86e4e",
   "lastOpenFiles": [
     "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
+    "PSC1/Hello.md",
+    "PSC1",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
     "Maths/Cours/Probabilité/Dénombrement/Coefficient binomial.md",
@@ -239,12 +240,10 @@
     "Maths/Cours/Suite/Suite arithmético-Géométrique.md",
     "Maths/Cours/Suite/Suite.md",
     "Maths/Cours/Suite/Limite de suite.md",
-    "Maths/Cours/Probabilité/Probabilité totale.md",
     "Autres",
     "Maths/Cours/Probabilité/Dénombrement",
     "Philo/Chapitre 3 (Art et Technique)",
     "Philo/Chapitre 2 (Travail)",
-    "My Vault",
     "Maths/Images/Intégrales Numworks 1.png",
     "Maths/Images/Intégrales Numworks 2.png",
     "Maths/Images/Pasted image 20240409230821.png",
