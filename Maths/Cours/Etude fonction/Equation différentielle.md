@@ -50,3 +50,5 @@ $f(x) = Ce^{ -3 }+\dfrac{4}{3}$
 ## Trouver C
 A FAIRE
 On peut trouver C grace a des équations et a des valeurs donnée.
+
+A FAIRE : Faire un exemple pour trouver C
