@@ -8,6 +8,7 @@ Pour bien faire les gestes, il faut s'entrainer à l'aide de professionnel aguer
 # Thèmes
  - [[Alerte et protection des populations]]
  - [[Protection - Attaque terroriste]]
+ - 
  - [[Traumatisme]]
  - [[Obstruction brutale des voies aériennes]]
  - [[Hémoragie]]
