@@ -4,7 +4,7 @@
 
 Solar Impulse II is a solar-powered aircraft designed to demonstrate the possibilities of solar energy and sustainable aviation technology. Its primary goal is to achieve a round-the-world flight using only solar energy as a power source, aiming to raise public awareness about clean and renewable transportation solutions.
 
-## Operation (with an energy chain):
+## Operation :
 
 Here's how Solar Impulse II operates within an energy chain:
 
@@ -28,7 +28,7 @@ The main components of Solar Impulse II include:
 
 4. **Control and Navigation Systems:** Advanced computer systems handle flight control and navigation tasks, ensuring safe operation.
 
-## Conclusion on Utility in Our World with Advantages and Disadvantages:
+## Conclusion :
 
 *Utility:* Solar Impulse II offers several significant advantages:
 
