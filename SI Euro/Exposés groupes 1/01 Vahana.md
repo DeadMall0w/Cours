@@ -4,7 +4,7 @@
 
 Vahana est un projet développé par Airbus visant à concevoir et à développer des véhicules aériens autonomes électriques à décollage et atterrissage vertical (eVTOL). L'objectif principal de ce projet est de créer des solutions de mobilité aérienne urbaine pour un transport personnel rapide et efficace, contribuant ainsi à désengorger les routes urbaines et à réduire les émissions de carbone associées aux déplacements urbains.
 
-## Fonctionnement (avec une chaîne d'énergie) :
+## Fonctionnement :
 
 Voici comment fonctionne Vahana dans une chaîne d'énergie :
 
@@ -28,7 +28,7 @@ Les principaux composants de Vahana comprennent :
 
 4. **Systèmes de navigation et de contrôle :** Des systèmes informatiques avancés et des capteurs sont utilisés pour piloter et contrôler Vahana de manière autonome tout au long du vol.
 
-## Conclusion de l'utilité dans notre monde avec avantages et défauts :
+## Conclusion :
 
 *Utilité :* Vahana présente plusieurs avantages potentiels pour la mobilité urbaine :
 
