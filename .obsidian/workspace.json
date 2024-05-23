@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liste.md",
+                "file": "NSI/NSI - Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liste.md",
+                "file": "NSI/NSI - Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liste.md",
+                "file": "NSI/NSI - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liste.md"
+                "file": "NSI/NSI - Index.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "4d907c74365aa2da",
   "lastOpenFiles": [
+    "NSI/Structure de donnée/Liste.md",
     "NSI/NSI - Index.md",
-    "Liste.md",
     "NSI/Programmation/Bonnes pratiques programmation.md",
     "Dictionnaire.md",
     "NSI/Programmation/Variables mutables.md",

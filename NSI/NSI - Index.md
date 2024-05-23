@@ -1,5 +1,5 @@
 # Basique python
-- [ ] [[Liste]]
+- [x] [[Liste]]
 - [ ] [[Linked List]]
 - [ ] [[Binaire]]
 - [ ] [[Boucles]]
@@ -8,7 +8,7 @@
 # Structure donnée
 - [ ] [[Variables élémentaire]]
 - [x] [[Dictionnaire]]
-- [ ] [[Liste]]
+- [x] [[Liste]]
 - [ ] [[Pile]]
 - [ ] [[File]]
 - [ ] [[Modèle relationnel]]
