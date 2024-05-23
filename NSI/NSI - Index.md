@@ -4,7 +4,7 @@
 - [ ] [[Binaire]]
 - [ ] [[Boucles]]
 - [ ] [[Gestion de bugs]]
-- [ ] [[Bonne pratique programmation]]
+- [ ] [[Bonnes pratiques programmation]]
 # Structure donnée
 - [ ] [[Variables élémetaire]]
 - [ ] [[Dictionnaire]]

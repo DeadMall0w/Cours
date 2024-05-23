@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bonne pratique programmation.md",
+                "file": "Bonnes pratiques programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bonne pratique programmation.md",
+                "file": "Bonnes pratiques programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bonne pratique programmation.md",
+                "file": "Bonnes pratiques programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bonne pratique programmation.md"
+                "file": "Bonnes pratiques programmation.md"
               }
             }
           },
@@ -207,7 +207,7 @@
   "active": "8a36f2098165be32",
   "lastOpenFiles": [
     "NSI/NSI - Index.md",
-    "Bonne pratique programmation.md",
+    "Bonnes pratiques programmation.md",
     "Test better embed.md",
     "Maths/Fonction pair et impair.md",
     "Travail Histoire.md",
