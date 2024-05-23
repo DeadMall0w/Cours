@@ -6,14 +6,14 @@
 - [ ] [[Gestion de bugs]]
 - [x] [[Bonnes pratiques programmation]]
 # Structure donnée
-- [ ] [[Variables élémetaire]]
+- [ ] [[Variables élémentaire]]
 - [ ] [[Dictionnaire]]
 - [ ] [[Liste]]
 - [ ] [[Pile]]
 - [ ] [[File]]
-- [ ] [[Modele relationnel]]
+- [ ] [[Modèle relationnel]]
 ## Arbre binaire
-- [ ] [[Arbre Binaire]]
+- [x] [[Arbre Binaire]]
 - [ ] [[Algorithme Arbre Binaire]]
 # Graph
 - [ ] [[Graph]]
@@ -63,6 +63,7 @@
 	- [ ] [[Portes logiques]]
 - [ ] [[Gestion des processus]]
 - [ ] [[Architecture Materiel]]
+- [ ] [[Systeme d'exploitation]]
 - [ ] [[Composants de puce]]
 ## Linux 
 - [ ] [[Linux]]

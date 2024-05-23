@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "22c49155526b0a1b",
+        "id": "9774f138ea868061",
         "type": "tabs",
         "children": [
           {
-            "id": "ce77ea7801fb91f4",
+            "id": "4d907c74365aa2da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/NSI - Index.md",
+                "file": "NSI/Programmation/Variables mutables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36947d20877c7fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSI/Programmation/Variables immuables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/NSI - Index.md",
+                "file": "NSI/Programmation/Variables immuables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/NSI - Index.md",
+                "file": "NSI/Programmation/Variables immuables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/NSI - Index.md"
+                "file": "NSI/Programmation/Variables immuables.md"
               }
             }
           },
@@ -159,11 +172,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce77ea7801fb91f4",
+  "active": "36947d20877c7fee",
   "lastOpenFiles": [
+    "NSI/Programmation/Variables mutables.md",
+    "NSI/Programmation/Variables immuables.md",
+    "Dictionnaire.md",
+    "NSI/NSI - Index.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
-    "NSI/NSI - Index.md",
     "NSI/Algorithmie/Diviser pour régner.md",
     "NSI/Conversion des Unités de Poids Informatique.md",
     "NSI/Coût d'un alogrithme.md",
@@ -196,10 +212,7 @@
     "Maths/Cours/Géométrie/Géométrie.md",
     "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
     "Maths/Maths - Index.md",
-    "Maths/Cours/Calcul/Nombres irrationnels.md",
-    "Maths/Cours/Calcul/Ensembles de nombre.md",
     "Maths/Images/Ensembles de nombre schema.png",
-    "Maths/LaTeX.md",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
     "Maths/Exemples/Suite",
