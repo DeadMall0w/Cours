@@ -55,11 +55,12 @@ def division(a: int, b: int) -> float:
 ```
 
 # Noms
-Il est important de choisir des noms de variables et de fonctions significatifs qui reflètent leur but et leur utilisation dans le programme. Des noms bien choisis rendent le code plus compréhensible et réduisent le besoin de commentaires explicatifs excessifs.
+Il est important de choisir des **noms de variables** et de **fonctions** **significatifs** qui reflètent leur **but** et leur **utilisation** dans le programme. Des noms bien choisis rendent le code plus **compréhensible** et **réduisent** le besoin de commentaires explicatifs excessifs.
+De plus, les accents (é, ê, è ë, ...) sont **prohibés** meme si python les supportes.
 
 ## Utilisation
 
-Pour cela, les fonctions, variables, ect... porte le nom qui définit le plus, et les mots sont séparé par __ puisqu'il n'est pas possible de mettre un espace dans un nom de variable
+Pour cela, les fonctions, variables, ect... porte le nom qui **définit** le plus, et les mots sont séparé par __ puisqu'il n'est pas possible de mettre un espace dans un nom de variable
 
 ```python
 def calculer_moyenne(liste_notes: List[float]) -> float:

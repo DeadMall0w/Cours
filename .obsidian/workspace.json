@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionnaire.md",
+                "file": "NSI/Programmation/Bonnes pratiques programmation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionnaire.md",
+                "file": "NSI/Programmation/Bonnes pratiques programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionnaire.md",
+                "file": "NSI/Programmation/Bonnes pratiques programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionnaire.md"
+                "file": "NSI/Programmation/Bonnes pratiques programmation.md"
               }
             }
           },
@@ -162,10 +161,10 @@
   },
   "active": "4d907c74365aa2da",
   "lastOpenFiles": [
+    "Dictionnaire.md",
     "NSI/NSI - Index.md",
     "NSI/Programmation/Variables mutables.md",
     "NSI/Programmation/Variables immuables.md",
-    "Dictionnaire.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Algorithmie/Diviser pour régner.md",
