@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Programmation/Variables mutables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36947d20877c7fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSI/Programmation/Variables immuables.md",
+                "file": "Dictionnaire.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6674aa4637ef02a9",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/Programmation/Variables immuables.md",
+                "file": "Dictionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/Programmation/Variables immuables.md",
+                "file": "Dictionnaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/Programmation/Variables immuables.md"
+                "file": "Dictionnaire.md"
               }
             }
           },
@@ -172,12 +160,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36947d20877c7fee",
+  "active": "4d907c74365aa2da",
   "lastOpenFiles": [
+    "NSI/NSI - Index.md",
     "NSI/Programmation/Variables mutables.md",
     "NSI/Programmation/Variables immuables.md",
     "Dictionnaire.md",
-    "NSI/NSI - Index.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
     "NSI/Algorithmie/Diviser pour régner.md",
