@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSI/Programmation/Bonnes pratiques programmation.md",
+                "file": "Liste.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSI/Programmation/Bonnes pratiques programmation.md",
+                "file": "Liste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSI/Programmation/Bonnes pratiques programmation.md",
+                "file": "Liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSI/Programmation/Bonnes pratiques programmation.md"
+                "file": "Liste.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "4d907c74365aa2da",
   "lastOpenFiles": [
-    "Dictionnaire.md",
     "NSI/NSI - Index.md",
+    "Liste.md",
+    "NSI/Programmation/Bonnes pratiques programmation.md",
+    "Dictionnaire.md",
     "NSI/Programmation/Variables mutables.md",
     "NSI/Programmation/Variables immuables.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
@@ -172,7 +174,6 @@
     "NSI/Coût d'un alogrithme.md",
     "NSI/Algorithmie",
     "NSI/Structure de donnée",
-    "NSI/Programmation/Bonnes pratiques programmation.md",
     "Untitled",
     "NSI/Programmation",
     "Test better embed.md",
@@ -198,7 +199,6 @@
     "Plan mediateur.md",
     "Maths/Cours/Géométrie/Géométrie.md",
     "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
-    "Maths/Maths - Index.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",

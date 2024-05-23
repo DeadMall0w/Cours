@@ -7,7 +7,7 @@
 - [x] [[Bonnes pratiques programmation]]
 # Structure donnée
 - [ ] [[Variables élémentaire]]
-- [ ] [[Dictionnaire]]
+- [x] [[Dictionnaire]]
 - [ ] [[Liste]]
 - [ ] [[Pile]]
 - [ ] [[File]]
