@@ -4,22 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "c4452befc87b1b3f",
+        "id": "d6c5926675b7ddba",
         "type": "tabs",
         "children": [
           {
-            "id": "24acc999b50e1f37",
+            "id": "3cb134fb1f5687cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SI Euro/Liste Expose.md",
+                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "157eb0e1866b1fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99a05d4d1b0cad98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travail Histoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a36f2098165be32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d20f5bb451cb6e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SI Euro/Liste Expose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SI Euro/Liste Expose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SI Euro/Liste Expose.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,55 +200,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24acc999b50e1f37",
+  "active": "8a36f2098165be32",
   "lastOpenFiles": [
-    "Maths/Cours/Probabilité/Dénombrement/Arrangement.md",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix canvas image.png",
-    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
-    "PSC1/Hello.md",
-    "PSC1",
-    "Maths/Cours/Probabilité/Dénombrement/Coefficient binomial.md",
-    "Maths/Cours/Probabilité/Dénombrement/Combinaison.md",
-    "Maths/Exemples/Probabilité/Binomiale/Exemple loi binomiale.md",
-    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213639.png",
-    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213638.png",
-    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213505.png",
-    "Maths/Exemples/Probabilité/Binomiale/Pasted image 20240417213426.png",
-    "Maths/Exemples/Probabilité/Binomiale/Schéma loi binomiale exemple 1.canvas",
-    "Maths/Exemples/Probabilité/Binomiale",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Binomiale.md",
-    "Loi Binomaile.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Variables aléatoire.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
-    "Maths/Cours/Géométrie/3D",
-    "Maths/Cours/Géométrie/2D",
-    "Maths/Cours/Probabilité/Probabilité traditionnelle",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Epreuve de Bernoulli.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale",
-    "Maths/A faire en maths.md",
-    "Maths/Cours/Géométrie/Produit scalaire.md",
-    "Maths/Cours/Géométrie/Plan mediateur.md",
+    "Test better embed.md",
+    "Maths/Fonction pair et impair.md",
+    "Travail Histoire.md",
+    "README.md",
     "Maths/Cours/Géométrie/Plan.md",
-    "Maths/Cours/Géométrie/Géométrie.md",
-    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Maths/Cours/Géométrie/Droite paramétrique.md",
-    "Maths/Cours/Géométrie/Distance plan droite.md",
-    "Philo/Chapitre 2 (Travail)/Travail.md",
-    "Maths/Cours/Probabilité/Probabilité traditionnelle/Probabilité conditionnelle.md",
-    "Maths/Cours/Suite/Théorème Gendarme.md",
-    "Maths/Cours/Suite/Théorème de comparaison.md",
-    "Maths/Cours/Suite/Suite arithmétique.md",
-    "Maths/Cours/Suite/Suite arithmético-Géométrique.md",
-    "Maths/Cours/Suite/Suite.md",
-    "Autres",
-    "Maths/Cours/Probabilité/Dénombrement",
-    "Philo/Chapitre 3 (Art et Technique)",
-    "Philo/Chapitre 2 (Travail)",
-    "Maths/Images/Intégrales Numworks 1.png",
-    "Maths/Images/Intégrales Numworks 2.png",
-    "Maths/Images/Pasted image 20240409230821.png",
-    "Maths/Images/Intégrales Numworks 3.png",
+    "gitignore",
+    "Maths/Plan mediateur.md",
+    "Maths/Intégrales.md",
+    "Maths/Images/integrale-exemple.jpg",
+    "Maths/Images/Intégrales Numworks 6.png",
+    "Maths/Images/Intégrales Numworks 5.png",
     "Maths/Images/Intégrales Numworks 4.png",
+    "Maths/Images/Intégrales Numworks 3.png",
+    "Maths/Images/Intégrales Numworks 2.png",
+    "Maths/Images/Intégrales Numworks 1.png",
+    "Maths/Formules.md",
+    "Maths/Distance plan droite.md",
+    "Maths/A faire en maths.md",
+    "Distance plan droite.md",
+    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+    "Plan mediateur.md",
+    "Maths/Cours/Géométrie/Géométrie.md",
+    "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
+    "Maths/Maths - Index.md",
+    "Maths/Cours/Calcul/Nombres irrationnels.md",
+    "Maths/Cours/Calcul/Ensembles de nombre.md",
+    "Maths/Images/Ensembles de nombre schema.png",
+    "Maths/LaTeX.md",
+    "Maths/Images/Arbre - probabilité.png",
+    "Maths/Images",
+    "Maths/Maths doc.md",
+    "Maths/Cours/Probabilité/Probabilité totale.md",
+    "Maths/Exemples/Suite",
+    "Maths/Exemples/Probabilité",
+    "Maths/Exemples/Formules",
+    "Maths/Exemples/Etude fonction",
+    "Maths/Exemples/Calcul",
+    "Maths/Exemples/Untitled.md",
+    "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
+    "Maths/Cours/Limite.md",
+    "Maths/Cours/Calcul",
+    "Maths/Cours/Géométrique.md",
+    "test.js",
+    "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
+    "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
