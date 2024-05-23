@@ -4,7 +4,7 @@
 - [ ] [[Binaire]]
 - [ ] [[Boucles]]
 - [ ] [[Gestion de bugs]]
-- [ ] [[Bonnes pratiques programmation]]
+- [x] [[Bonnes pratiques programmation]]
 # Structure donnée
 - [ ] [[Variables élémetaire]]
 - [ ] [[Dictionnaire]]
@@ -47,9 +47,9 @@
 # Réseau 
 - [ ] [[Réseaux]]
 ## Protocoles internet
-- [ ] [[Protocoles internet]]
-- [ ] [[Protocole RIP]]
-- [ ] [[Protocole OSPF]]
+- [x] [[Protocoles internet]]
+- [x] [[Protocole RIP]]
+- [x] [[Protocole OSPF]]
 
 # Base de donnée
 - [ ] [[SGBD]]

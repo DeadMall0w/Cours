@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c5926675b7ddba",
+        "id": "22c49155526b0a1b",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb134fb1f5687cc",
+            "id": "ce77ea7801fb91f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157eb0e1866b1fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99a05d4d1b0cad98",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a36f2098165be32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bonnes pratiques programmation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d20f5bb451cb6e01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+                "file": "NSI/NSI - Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bonnes pratiques programmation.md",
+                "file": "NSI/NSI - Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bonnes pratiques programmation.md",
+                "file": "NSI/NSI - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bonnes pratiques programmation.md"
+                "file": "NSI/NSI - Index.md"
               }
             }
           },
@@ -204,10 +159,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a36f2098165be32",
+  "active": "ce77ea7801fb91f4",
   "lastOpenFiles": [
+    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
+    "NSI/Réseaux/Protocole OSPF.md",
     "NSI/NSI - Index.md",
-    "Bonnes pratiques programmation.md",
+    "NSI/Algorithmie/Diviser pour régner.md",
+    "NSI/Conversion des Unités de Poids Informatique.md",
+    "NSI/Coût d'un alogrithme.md",
+    "NSI/Algorithmie",
+    "NSI/Structure de donnée",
+    "NSI/Programmation/Bonnes pratiques programmation.md",
+    "Untitled",
+    "NSI/Programmation",
     "Test better embed.md",
     "Maths/Fonction pair et impair.md",
     "Travail Histoire.md",
@@ -228,7 +192,6 @@
     "Maths/A faire en maths.md",
     "Distance plan droite.md",
     "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "Plan mediateur.md",
     "Maths/Cours/Géométrie/Géométrie.md",
     "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
@@ -239,19 +202,11 @@
     "Maths/LaTeX.md",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
-    "Maths/Maths doc.md",
-    "Maths/Cours/Probabilité/Probabilité totale.md",
     "Maths/Exemples/Suite",
     "Maths/Exemples/Probabilité",
     "Maths/Exemples/Formules",
     "Maths/Exemples/Etude fonction",
-    "Maths/Exemples/Calcul",
-    "Maths/Exemples/Untitled.md",
-    "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
-    "Maths/Cours/Calcul",
-    "test.js",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
-    "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
