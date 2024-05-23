@@ -35,20 +35,20 @@
             "id": "99a05d4d1b0cad98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travail Histoire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "8a36f2098165be32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bonne pratique programmation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bonne pratique programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bonne pratique programmation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bonne pratique programmation.md"
+              }
             }
           },
           {
@@ -202,6 +206,8 @@
   },
   "active": "8a36f2098165be32",
   "lastOpenFiles": [
+    "NSI/NSI - Index.md",
+    "Bonne pratique programmation.md",
     "Test better embed.md",
     "Maths/Fonction pair et impair.md",
     "Travail Histoire.md",
@@ -242,9 +248,7 @@
     "Maths/Exemples/Calcul",
     "Maths/Exemples/Untitled.md",
     "Maths/Cours/Etude fonction/Logarithme népérien (Ln).md",
-    "Maths/Cours/Limite.md",
     "Maths/Cours/Calcul",
-    "Maths/Cours/Géométrique.md",
     "test.js",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png.0.pdnSave",
