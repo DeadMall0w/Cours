@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionnaire.md",
+                "file": "Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f390cd79a9c6c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pile et file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a9a7b6efb0b4cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binaire.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionnaire.md",
+                "file": "Binaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionnaire.md",
+                "file": "Binaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionnaire.md"
+                "file": "Binaire.md"
               }
             }
           },
@@ -159,9 +184,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d907c74365aa2da",
+  "active": "3a9a7b6efb0b4cce",
   "lastOpenFiles": [
     "NSI/NSI - Index.md",
+    "Binaire.md",
+    "Boucles.md",
+    "NSI/Algorithmie/Diviser pour régner.md",
+    "Langages du web.md",
+    "Pile et file.md",
+    "Variables.md",
     "NSI/Structure de donnée/Liste.md",
     "NSI/Programmation/Bonnes pratiques programmation.md",
     "Dictionnaire.md",
@@ -169,7 +200,6 @@
     "NSI/Programmation/Variables immuables.md",
     "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
     "NSI/Réseaux/Protocole OSPF.md",
-    "NSI/Algorithmie/Diviser pour régner.md",
     "NSI/Conversion des Unités de Poids Informatique.md",
     "NSI/Coût d'un alogrithme.md",
     "NSI/Algorithmie",
@@ -194,11 +224,6 @@
     "Maths/Formules.md",
     "Maths/Distance plan droite.md",
     "Maths/A faire en maths.md",
-    "Distance plan droite.md",
-    "Maths/Cours/Géométrie/Equation cartesienne de plan.md",
-    "Plan mediateur.md",
-    "Maths/Cours/Géométrie/Géométrie.md",
-    "Maths/Exemples/Géométrie/Verifier si un point est sur un plan.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
