@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9774f138ea868061",
+        "id": "2ff539af7dae8024",
         "type": "tabs",
         "children": [
           {
-            "id": "4d907c74365aa2da",
+            "id": "e4b6254d5768160b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f390cd79a9c6c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pile et file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a9a7b6efb0b4cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binaire.md",
+                "file": "Philo/Conaissance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binaire.md",
+                "file": "Philo/Conaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binaire.md",
+                "file": "Philo/Conaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binaire.md"
+                "file": "Philo/Conaissance.md"
               }
             }
           },
@@ -184,10 +159,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a9a7b6efb0b4cce",
+  "active": "e4b6254d5768160b",
   "lastOpenFiles": [
-    "NSI/NSI - Index.md",
+    "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
+    "Philo/Chapite 1 (Bonheur)/Aristote - Ethique a Nicomaque.md",
     "Binaire.md",
+    "NSI/NSI - Index.md",
     "Boucles.md",
     "NSI/Algorithmie/Diviser pour régner.md",
     "Langages du web.md",
@@ -222,8 +199,6 @@
     "Maths/Images/Intégrales Numworks 2.png",
     "Maths/Images/Intégrales Numworks 1.png",
     "Maths/Formules.md",
-    "Maths/Distance plan droite.md",
-    "Maths/A faire en maths.md",
     "Maths/Images/Ensembles de nombre schema.png",
     "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
