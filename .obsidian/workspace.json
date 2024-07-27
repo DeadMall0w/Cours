@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Concentration molaire.md",
+                "file": "Physique & Chimie/Cours/Chimie/Matière/Concentration molaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Concentration massique.md",
+                "file": "Physique & Chimie/Cours/Chimie/Matière/Concentration massique.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,24 +47,24 @@
             "id": "c0ae35f19a79785e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "1ba499a39ddbf57d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physique & Chimie/TODO physique chimie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,37 +200,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ba499a39ddbf57d",
+  "active": "c0ae35f19a79785e",
   "lastOpenFiles": [
-    "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
-    "Physique & Chimie/Cours/Chimie/Dosage par étalonnage.md",
-    "Physique & Chimie/Cours/Chimie/La mole.md",
-    "Physique & Chimie/Programme de première.md",
-    "Physique & Chimie/Cours/Chimie/Concentration massique.md",
-    "Physique & Chimie/Cours/Chimie/Concentration molaire.md",
+    "Physique & Chimie/Cours/Chimie/Microscopique et macroscopique.md",
+    "Physique & Chimie/Cours/Chimie/Autres",
+    "Physique & Chimie/Cours/Chimie/TP",
+    "Physique & Chimie/Cours/Chimie/Untitled.md",
+    "Physique & Chimie/Cours/Chimie/Matière",
+    "Physique & Chimie/Cours/Chimie/Matière.md",
     "Physique & Chimie/Trucs que je ne connais pas.md",
+    "Physique & Chimie/TODO physique chimie.md",
+    "Physique & Chimie/Template.md",
+    "Physique & Chimie/Liens utiles.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Concentration massique.md",
+    "Physique & Chimie/Cours/Chimie/TP",
+    "Physique & Chimie/Cours/Chimie/Matière/Composition d'un atome.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Ion.md",
+    "Physique & Chimie/Cours/Chimie/TP/Dosage par étalonnage.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Nucleon.md",
+    "Physique & Chimie/Cours/Chimie/Matière/La mole.md",
+    "Physique & Chimie/Programme de première.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Concentration molaire.md",
     "Physique & Chimie/Cours/Untitled.md",
-    "Physique & Chimie/Cours/Chimie/Solution.md",
-    "Physique & Chimie/Cours/Chimie/Composition d'un atome.md",
-    "Physique & Chimie/Cours/Chimie/Configuration électronique.md",
-    "Physique & Chimie/Cours/Chimie/Nucleon.md",
-    "Physique & Chimie/Cours/Chimie/Masse volumique.md",
-    "Physique & Chimie/Cours/Chimie/Stoechiométrie.md",
+    "Physique & Chimie/Cours/Chimie/TP/Solution.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Configuration électronique.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Masse volumique.md",
+    "Physique & Chimie/Cours/Chimie/TP/Stoechiométrie.md",
     "Physique & Chimie/Cours/Chimie/Gaz idéaux.md",
-    "Physique & Chimie/Cours/Chimie/Ion.md",
-    "Physique & Chimie/Cours/Chimie/Electron de valence.md",
+    "Physique & Chimie/Cours/Chimie/Matière/Electron de valence.md",
     "SI Euro/Exposés groupes 1/10 Insight Lander.md",
     "Noyau.md",
     "Physique & Chimie/Cours/Chimie",
     "atome.md",
-    "Charge electrique.md",
     "Physique & Chimie/Cours",
-    "Physique & Chimie/Liens utiles.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi binomiale résumé.md",
     "Physique & Chimie",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Variables aléatoire.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
-    "Maths/Cours/Probabilité/Probabilité Binomiale/Epreuve de Bernoulli.md",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
     "PDF/Saint graal NSI.pdf",
     "NSI/Pasted image 20240618231400.png",
@@ -245,10 +248,6 @@
     "NSI/Pasted image 20240618214635.png",
     "NSI/Algorithmie",
     "NSI/Structure de donnée",
-    "NSI/Programmation",
-    "gitignore",
-    "Maths/Images",
-    "Maths/Exemples/Suite",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
