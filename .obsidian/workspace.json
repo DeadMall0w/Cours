@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0ae35f19a79785e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79d17fa272075ede",
             "type": "leaf",
             "state": {
@@ -54,8 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0ae35f19a79785e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ba499a39ddbf57d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physique & Chimie/Cours/Chimie/TODO physique chimie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,10 +200,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0ae35f19a79785e",
+  "active": "1ba499a39ddbf57d",
   "lastOpenFiles": [
-    "Physique & Chimie/Cours/Chimie/La mole.md",
     "Physique & Chimie/Cours/Chimie/TODO physique chimie.md",
+    "Physique & Chimie/Cours/Chimie/Dosage par étalonnage.md",
+    "Physique & Chimie/Cours/Chimie/La mole.md",
+    "Physique & Chimie/Programme de première.md",
     "Physique & Chimie/Cours/Chimie/Concentration massique.md",
     "Physique & Chimie/Cours/Chimie/Concentration molaire.md",
     "Physique & Chimie/Trucs que je ne connais pas.md",
@@ -208,7 +215,6 @@
     "Physique & Chimie/Cours/Chimie/Configuration électronique.md",
     "Physique & Chimie/Cours/Chimie/Nucleon.md",
     "Physique & Chimie/Cours/Chimie/Masse volumique.md",
-    "Physique & Chimie/Cours/Chimie/Dosage par étalonnage.md",
     "Physique & Chimie/Cours/Chimie/Stoechiométrie.md",
     "Physique & Chimie/Cours/Chimie/Gaz idéaux.md",
     "Physique & Chimie/Cours/Chimie/Ion.md",
@@ -218,7 +224,6 @@
     "Physique & Chimie/Cours/Chimie",
     "atome.md",
     "Charge electrique.md",
-    "Physique & Chimie/Programme de première.md",
     "Physique & Chimie/Cours",
     "Physique & Chimie/Liens utiles.md",
     "Maths/Cours/Probabilité/Probabilité Binomiale/Loi binomiale résumé.md",

@@ -63,6 +63,7 @@ $n=\dfrac{V}{V_{M}}$
 - $V_{M}$ est le volume molaire (24L/mol)
 
 # Concentration en quantité
+**EN CONSTRUCTION, VOIR [[Concentration molaire]]**
 La concentration en quantité (ou concentration molaire) est appliqué uniquement aux [[Solution|Solution]].
    $C = \frac{n}{V}$
    où $C$ est la concentration en mol/L (molarité), $n$ est le nombre de moles de soluté, et $V$ est le volume de la solution en litres.
