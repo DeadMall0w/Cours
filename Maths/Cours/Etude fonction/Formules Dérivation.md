@@ -62,13 +62,4 @@ Faire des exemples pour les dérivée normales
 Faire les formes de dérivée plus complexe, u/v, ...
 #Maths
 
-
-# TODO
-- [x] Duolingo
-- [x] Bing
-- [x] Reviser les maths
-- [ ] Réviser la géo (demain dans le bus)
-- [ ] Recopier les trucs de maths
-
-
 # FAIT

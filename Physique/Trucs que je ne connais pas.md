@@ -1,0 +1,3 @@
+- les formules CO2, 2 en bas ? en haut ?
+- C'est quoi un ion ? il y en a plusieurs ?
+- noyau, proton, neutron, electron + stabilité ?

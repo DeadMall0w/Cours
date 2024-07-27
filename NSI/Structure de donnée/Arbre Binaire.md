@@ -23,7 +23,7 @@ Les arbres binaires sont des structures de données non linéaire, ils sont util
 ![[Pasted image 20231127173947.png]]
 Tous les noeuds possedent un unique enfant sauf le dernier (J) qui est une feuille
 ## **Localement complet** ou **strict** 
-![[Pasted image 20231127174137.png]]
+![[Pasted image 20240618214620.png]]
 Tous les noeuds sont soit des feuilles ou ont 2 enfants. 
 ## **Complet**
 ![[Pasted image 20231127174312.png]]

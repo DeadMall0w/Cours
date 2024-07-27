@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2ff539af7dae8024",
+        "id": "eb6b2f5db926ac72",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b6254d5768160b",
+            "id": "c0ae35f19a79785e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philo/Conaissance.md",
+                "file": "Physique/Cours/Chimie/La mole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e8bd3c38d2304a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique/Cours/Chimie/Teneur massique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8c447c89abba8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique/Cours/Chimie/Solution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philo/Conaissance.md",
+                "file": "Physique/Cours/Chimie/Teneur massique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philo/Conaissance.md",
+                "file": "Physique/Cours/Chimie/Teneur massique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philo/Conaissance.md"
+                "file": "Physique/Cours/Chimie/Teneur massique.md"
               }
             }
           },
@@ -159,54 +184,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4b6254d5768160b",
+  "active": "a0e8bd3c38d2304a",
   "lastOpenFiles": [
-    "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
-    "Philo/Chapite 1 (Bonheur)/Aristote - Ethique a Nicomaque.md",
-    "Binaire.md",
-    "NSI/NSI - Index.md",
-    "Boucles.md",
-    "NSI/Algorithmie/Diviser pour régner.md",
-    "Langages du web.md",
-    "Pile et file.md",
-    "Variables.md",
-    "NSI/Structure de donnée/Liste.md",
-    "NSI/Programmation/Bonnes pratiques programmation.md",
-    "Dictionnaire.md",
-    "NSI/Programmation/Variables mutables.md",
-    "NSI/Programmation/Variables immuables.md",
-    "Maths/Exemples/Géométrie/Trouver equation cartesienne.md",
-    "NSI/Réseaux/Protocole OSPF.md",
-    "NSI/Conversion des Unités de Poids Informatique.md",
-    "NSI/Coût d'un alogrithme.md",
+    "Physique/Cours/Chimie/La mole.md",
+    "Physique/Cours/Chimie/Teneur massique.md",
+    "Physique/Cours/Chimie/Solution.md",
+    "Physique/Cours/Chimie/Composition d'un atome.md",
+    "Physique/Cours/Chimie/Configuration électronique.md",
+    "Physique/Cours/Chimie/Nucleon.md",
+    "Physique/Cours/Chimie/Masse volumique.md",
+    "Physique/Cours/Chimie/Dosage par étalonnage.md",
+    "Physique/Cours/Chimie/Stoechiométrie.md",
+    "Physique/Cours/Chimie/Gaz idéaux.md",
+    "Physique/Cours/Chimie/Ion.md",
+    "Physique/Cours/Chimie/Electron de valence.md",
+    "SI Euro/Exposés groupes 1/10 Insight Lander.md",
+    "Noyau.md",
+    "Physique/Cours/Chimie",
+    "atome.md",
+    "Charge electrique.md",
+    "Physique/Programme de première.md",
+    "Physique/Cours/Untitled.md",
+    "Physique/Cours",
+    "Physique/Trucs que je ne connais pas.md",
+    "Physique/Liens utiles.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi binomiale résumé.md",
+    "Physique",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Variables aléatoire.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Loi de Bernoulli.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Epreuve de Bernoulli.md",
+    "Maths/Cours/Probabilité/Probabilité Binomiale/Binomiale.md",
+    "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
+    "NSI/Saint graal NSI.md",
+    "PDF/Saint graal NSI.pdf",
+    "NSI/Pasted image 20240618231400.png",
+    "NSI/Pasted image 20240618230719.png",
+    "NSI/Pasted image 20240618220050.png",
+    "NSI/Pasted image 20240618215244.png",
+    "NSI/Pasted image 20240618215139.png",
+    "NSI/Pasted image 20240618214830.png",
+    "NSI/Pasted image 20240618214732.png",
+    "NSI/Pasted image 20240618214713.png",
+    "NSI/Pasted image 20240618214707.png",
+    "NSI/Pasted image 20240618214635.png",
     "NSI/Algorithmie",
     "NSI/Structure de donnée",
-    "Untitled",
     "NSI/Programmation",
-    "Test better embed.md",
-    "Maths/Fonction pair et impair.md",
-    "Travail Histoire.md",
-    "README.md",
-    "Maths/Cours/Géométrie/Plan.md",
     "gitignore",
-    "Maths/Plan mediateur.md",
-    "Maths/Intégrales.md",
-    "Maths/Images/integrale-exemple.jpg",
-    "Maths/Images/Intégrales Numworks 6.png",
-    "Maths/Images/Intégrales Numworks 5.png",
-    "Maths/Images/Intégrales Numworks 4.png",
-    "Maths/Images/Intégrales Numworks 3.png",
-    "Maths/Images/Intégrales Numworks 2.png",
-    "Maths/Images/Intégrales Numworks 1.png",
-    "Maths/Formules.md",
-    "Maths/Images/Ensembles de nombre schema.png",
-    "Maths/Images/Arbre - probabilité.png",
     "Maths/Images",
     "Maths/Exemples/Suite",
-    "Maths/Exemples/Probabilité",
-    "Maths/Exemples/Formules",
-    "Maths/Exemples/Etude fonction",
-    "NSI/Images/Protocoles internet/Exemple de routage OSPF avec cout.png",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
