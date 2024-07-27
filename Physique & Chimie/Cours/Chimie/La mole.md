@@ -77,7 +77,7 @@ La stœchiométrie est l'étude des relations quantitatives entre les réactifs 
 ## Gaz Idéaux
 Les **gaz idéaux** sont des gaz hypothétiques qui suivent l'équation d'état des gaz parfaits :
 $PV = nRT$
-où $P$ est la pression, $V$ le volume, $n$ le nombre de moles, $R$ la constante des gaz parfaits, et $T$ la température en Kelvin. Cette équation est utile pour prédire le comportement des gaz dans différentes conditions. Voir [[Gaz Idéaux|gaz idéaux]] pour plus de détails.
+où $P$ est la pression, $V$ le volume, $n$ le nombre de moles, $R$ la constante des gaz parfaits, et $T$ la température en Kelvin. Cette équation est utile pour prédire le comportement des gaz dans différentes conditions. Voir [[Gaz idéaux|gaz idéaux]] pour plus de détails.
 
 # Travaux Pratiques
 
@@ -107,6 +107,6 @@ Comprendre le concept de la mole et ses applications est crucial pour les étude
 - [[Masse Molaire|masse molaire]]
 - [[Stœchiométrie|stœchiométrie]]
 - [[Concentration Molaire|concentration molaire]]
-- [[Gaz Idéaux|gaz idéaux]]
+- [[Gaz idéaux|gaz idéaux]]
 - [[Masse volumique|masse volumique]]
 - [[Ion|ion]]
