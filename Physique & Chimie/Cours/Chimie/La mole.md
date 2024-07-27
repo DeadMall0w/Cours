@@ -66,7 +66,7 @@ $n=\dfrac{V}{V_{M}}$
 La concentration en quantité (ou concentration molaire) est appliqué uniquement aux [[Solution|Solution]].
    $C = \frac{n}{V}$
    où $C$ est la concentration en mol/L (molarité), $n$ est le nombre de moles de soluté, et $V$ est le volume de la solution en litres.
-La [[Teneur massique|teneur massique]] ($t$ ou $Cm$) est la masse de soluté dans 1L de solution
+La [[Concentration massique|teneur massique]] ($t$ ou $Cm$) est la masse de soluté dans 1L de solution
 $t = \dfrac{m}{V}$ ou $m =n\times M$
 Nous trouvons donc $t = \dfrac{n\times M}{V} = C\times M$
 # Applications de la Mole
