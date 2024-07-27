@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0ab9f9e9b13a943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Maths - Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "07c3c9d56ac90519",
@@ -184,6 +171,7 @@
   },
   "active": "e0fd97175732ed63",
   "lastOpenFiles": [
+    "Physique & Chimie/PHYSIQUE & CHIMIE.md",
     "Maths/Maths - Index.md",
     "Maths/MATHS.md",
     "NSI/NSI - Index.md",
@@ -213,7 +201,6 @@
     "Physique & Chimie/Cours/Untitled.md",
     "Physique & Chimie/Cours/Chimie/TP/Solution.md",
     "Physique & Chimie/Cours/Chimie/Matière/Configuration électronique.md",
-    "Physique & Chimie/Cours/Chimie/Matière/Masse volumique.md",
     "Physique & Chimie/Cours/Chimie",
     "Physique & Chimie/Cours",
     "Physique & Chimie",

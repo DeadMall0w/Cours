@@ -29,17 +29,17 @@
       }
     },
     {
-      "query": "path:\"SI Euro\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711914
-      }
-    },
-    {
       "query": "path:Physique  ",
       "color": {
         "a": 1,
         "rgb": 1376177
+      }
+    },
+    {
+      "query": "path:\"SI Euro\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.29947916666667,
   "lineSizeMultiplier": 1.27395833333333,
   "collapse-forces": false,
-  "centerStrength": 0.619791666666667,
+  "centerStrength": 0.677083333333333,
   "repelStrength": 19.4791666666667,
   "linkStrength": 1,
-  "linkDistance": 99,
-  "scale": 0.0593261718750003,
+  "linkDistance": 96,
+  "scale": 0.042315902689759384,
   "close": false
 }
