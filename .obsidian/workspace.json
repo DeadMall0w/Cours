@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "46a3161665f82847",
+        "id": "a2232556976559a0",
         "type": "tabs",
         "children": [
           {
-            "id": "90c255224e5e61c5",
+            "id": "0342625f38dc2724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/MATHS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "07c3c9d56ac90519",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0fd97175732ed63",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -169,11 +151,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0fd97175732ed63",
+  "active": "0342625f38dc2724",
   "lastOpenFiles": [
+    "Maths/MATHS.md",
     "Physique & Chimie/PHYSIQUE & CHIMIE.md",
     "Maths/Maths - Index.md",
-    "Maths/MATHS.md",
     "NSI/NSI - Index.md",
     "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
     "SI Euro/Exposés groupes 1/10 Insight Lander.md",
