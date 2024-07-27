@@ -7,7 +7,7 @@ subject: Chimie
 level: Lycée
 summary: 
 Avancement: 70%
-A faire:
+A faire: FAIRE LA PARTIE SUR LA CONCENTRATION MOLAIRE, refaire les titres, diff avec concentration molaire ?
 ---
 # Définition
 La **concentration massique** (elle porte d'autre nom tel que : **teneur massique**, **pourcentage en masse**, **densité massique**) elle est une mesure de la concentration d'une solution, exprimée comme la masse de soluté par litre de solution. Elle est généralement utilisée pour les solutions où le soluté est un solide dissous dans un liquide, mais peut également s'appliquer à d'autres types de solutions.
@@ -55,11 +55,9 @@ La concentration massique est importante car elle permet de :
 - **Analyser des Échantillons** : En chimie analytique et industrielle, pour mesurer les concentrations de divers composants dans des échantillons.
 
 ### Comparaison avec d'autres Mesures de Concentration
-
-- **Concentration Molaire** : La concentration molaire est le nombre de moles de soluté par litre de solution (mol/L). Elle est souvent utilisée pour les solutions de solutés dissous qui sont des composés chimiques, car elle prend en compte le nombre de particules de soluté.
-  $C = \frac{n}{V}$
-  où $n$ est le nombre de moles et $V$ est le volume en litres.
- Voir le cours sur les [[La mole|moles]].
+**EXTRAIT DU COURS SUR LA CONCENTRATION MOLAIRE**
+![[Concentration molaire#Différences avec la concentration massique]]
+ Voir le cours sur les [[La mole|moles]] et [[Concentration molaire]].
 
 ### Applications Pratiques
 - **Formulation de Produits** : Dans l'industrie pharmaceutique et alimentaire, pour préparer des solutions avec des concentrations spécifiques.
