@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79d17fa272075ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique & Chimie/Trucs que je ne connais pas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c270d3ce9017e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Matière/Concentration molaire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4937d20c9c9e9ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Matière/Concentration massique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0ae35f19a79785e",
             "type": "leaf",
             "state": {
@@ -88,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,9 +190,10 @@
   },
   "active": "e0fd97175732ed63",
   "lastOpenFiles": [
+    "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
     "Philo/PHILO.md",
-    "Physique & Chimie/TODO physique chimie.md",
     "SI Euro/Liste Expose.md",
+    "Physique & Chimie/TODO physique chimie.md",
     "Physique & Chimie/Cours/Chimie/Microscopique et macroscopique.md",
     "Physique & Chimie/Cours/Chimie/Autres",
     "Physique & Chimie/Cours/Chimie/TP",
@@ -255,7 +220,6 @@
     "Physique & Chimie/Cours/Chimie/Gaz idéaux.md",
     "Physique & Chimie/Cours/Chimie/Matière/Electron de valence.md",
     "SI Euro/Exposés groupes 1/10 Insight Lander.md",
-    "Noyau.md",
     "Physique & Chimie/Cours/Chimie",
     "Physique & Chimie/Cours",
     "Physique & Chimie",

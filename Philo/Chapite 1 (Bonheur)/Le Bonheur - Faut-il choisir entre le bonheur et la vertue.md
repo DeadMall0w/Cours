@@ -44,3 +44,10 @@ Il y a 4 erreurs a ne pas faire pour atteindre le bonheur
   - Désirs sans fondement (influence social, publicité, comparaison avec les autres)
 - Supporter la douleur et ne pas s'en inquiéter
 
+
+
+
+# Textes liées
+[[Page 27 - 39]]
+[[Lettre à Ménécée (texte)]]
+[[Platon - Gorgias]]
