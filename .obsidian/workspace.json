@@ -47,8 +47,32 @@
             "id": "c0ae35f19a79785e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philo/PHILO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0fd97175732ed63",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "2be71bb28e94ce50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SI Euro/Liste Expose.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,8 +224,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0ae35f19a79785e",
+  "active": "e0fd97175732ed63",
   "lastOpenFiles": [
+    "Philo/PHILO.md",
+    "Physique & Chimie/TODO physique chimie.md",
+    "SI Euro/Liste Expose.md",
     "Physique & Chimie/Cours/Chimie/Microscopique et macroscopique.md",
     "Physique & Chimie/Cours/Chimie/Autres",
     "Physique & Chimie/Cours/Chimie/TP",
@@ -209,7 +236,6 @@
     "Physique & Chimie/Cours/Chimie/Matière",
     "Physique & Chimie/Cours/Chimie/Matière.md",
     "Physique & Chimie/Trucs que je ne connais pas.md",
-    "Physique & Chimie/TODO physique chimie.md",
     "Physique & Chimie/Template.md",
     "Physique & Chimie/Liens utiles.md",
     "Physique & Chimie/Cours/Chimie/Matière/Concentration massique.md",
@@ -231,7 +257,6 @@
     "SI Euro/Exposés groupes 1/10 Insight Lander.md",
     "Noyau.md",
     "Physique & Chimie/Cours/Chimie",
-    "atome.md",
     "Physique & Chimie/Cours",
     "Physique & Chimie",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
