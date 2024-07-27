@@ -6,11 +6,13 @@
 - [ ] [[Gestion de bugs]]
 - [x] [[Bonnes pratiques programmation]]
 # Structure donnée
+- [ ] [[Variables]]
 - [ ] [[Variables élémentaire]]
 - [x] [[Dictionnaire]]
 - [x] [[Liste]]
 - [ ] [[Pile]]
 - [ ] [[File]]
+- [ ] [[Pile et file]]
 - [ ] [[Modèle relationnel]]
 ## Arbre binaire
 - [x] [[Arbre Binaire]]
@@ -20,6 +22,7 @@
 - [ ] [[Algorithme de Dijkstra]]
 
 # Algorithmie
+- [ ] [[Coût d'un alogrithme]]
 ## Recherche
 - [ ] [[Recherche textuelle]]
 - [ ] [[Dichotomie]]
@@ -81,4 +84,7 @@
 - [ ] [[HTML]]
 - [ ] [[CSS]]
 - [ ] [[Javascript]]
+- [ ] [[Langages du web]]
 
+
+[[Saint graal NSI]]
