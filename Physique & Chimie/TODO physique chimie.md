@@ -6,7 +6,9 @@
 	- [[Dissolution]]
 	- [[Dosage par étalonnage]] + [[Loi de Beer Lambert]]
 ## Normal
-
+- [[Gaz noble]]
+- [[Tableau periodique]]
+- [[Element les plus important du tableau]]
 
 ## Non urgent
 

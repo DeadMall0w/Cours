@@ -1,7 +1,7 @@
 Divisé en 4, pas équilibré
 ## Chimie - Transformation et constitution de la matière
 - [[La mole]]
-- Réaction d'oxydo-réduction
+- [[Oxydo-reduction]]
 - Le tableau d'avancement
 - Titrage colorimétrique
 - Structure et polarité

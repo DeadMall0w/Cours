@@ -11,8 +11,12 @@
             "id": "0342625f38dc2724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md"
+              }
             }
           },
           {
@@ -153,15 +161,22 @@
   },
   "active": "0342625f38dc2724",
   "lastOpenFiles": [
-    "Maths/MATHS.md",
     "Physique & Chimie/PHYSIQUE & CHIMIE.md",
+    "Physique & Chimie/Programme de première.md",
+    "Physique & Chimie/TODO physique chimie.md",
+    "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
+    "Physique & Chimie/Cours/Chimie/Réaction/Pasted image 20240728130825.png",
+    "Physique & Chimie/Cours/Chimie/Réaction/Pasted image 20240728130810.png",
+    "Physique & Chimie/Liens utiles.md",
+    "Physique & Chimie/Cours/Chimie/Réaction",
+    "PSC1/Hello.md",
+    "Maths/MATHS.md",
     "Maths/Maths - Index.md",
     "NSI/NSI - Index.md",
     "Philo/Chapite 1 (Bonheur)/Le Bonheur - Faut-il choisir entre le bonheur et la vertue.md",
     "SI Euro/Exposés groupes 1/10 Insight Lander.md",
     "Philo/PHILO.md",
     "SI Euro/Liste Expose.md",
-    "Physique & Chimie/TODO physique chimie.md",
     "Physique & Chimie/Cours/Chimie/Microscopique et macroscopique.md",
     "Physique & Chimie/Cours/Chimie/Autres",
     "Physique & Chimie/Cours/Chimie/TP",
@@ -170,7 +185,6 @@
     "Physique & Chimie/Cours/Chimie/Matière.md",
     "Physique & Chimie/Trucs que je ne connais pas.md",
     "Physique & Chimie/Template.md",
-    "Physique & Chimie/Liens utiles.md",
     "Physique & Chimie/Cours/Chimie/Matière/Concentration massique.md",
     "Physique & Chimie/Cours/Chimie/TP",
     "Physique & Chimie/Cours/Chimie/Matière/Composition d'un atome.md",
@@ -178,11 +192,7 @@
     "Physique & Chimie/Cours/Chimie/TP/Dosage par étalonnage.md",
     "Physique & Chimie/Cours/Chimie/Matière/Nucleon.md",
     "Physique & Chimie/Cours/Chimie/Matière/La mole.md",
-    "Physique & Chimie/Programme de première.md",
     "Physique & Chimie/Cours/Chimie/Matière/Concentration molaire.md",
-    "Physique & Chimie/Cours/Untitled.md",
-    "Physique & Chimie/Cours/Chimie/TP/Solution.md",
-    "Physique & Chimie/Cours/Chimie/Matière/Configuration électronique.md",
     "Physique & Chimie/Cours/Chimie",
     "Physique & Chimie/Cours",
     "Physique & Chimie",
@@ -196,10 +206,7 @@
     "NSI/Pasted image 20240618214830.png",
     "NSI/Pasted image 20240618214732.png",
     "NSI/Pasted image 20240618214713.png",
-    "NSI/Pasted image 20240618214707.png",
-    "NSI/Pasted image 20240618214635.png",
     "NSI/Algorithmie",
-    "NSI/Structure de donnée",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
