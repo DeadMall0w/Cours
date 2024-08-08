@@ -12,7 +12,7 @@ Divisé en 4, pas équilibré
 
 ## PHYSIQUE - MOUVEMENT ET INTERACTION
 - Interaction, forces et champs
-- Description d'un fluide au repos
+- [[Description d'un fluide au repos]]
 - Mouvement d'un système
 
 ## ENERGIE - L'énergie, conversion et transfert

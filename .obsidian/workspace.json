@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
+                "file": "Physique & Chimie/PHYSIQUE & CHIMIE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ca02dfa8157df37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique & Chimie/Programme de première.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1090d1e2b12eaeba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique & Chimie/Cours/Physique/Description d'un fluide au repos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
+                "file": "Physique & Chimie/Cours/Physique/Description d'un fluide au repos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
+                "file": "Physique & Chimie/Cours/Physique/Description d'un fluide au repos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md"
+                "file": "Physique & Chimie/Cours/Physique/Description d'un fluide au repos.md"
               }
             }
           },
@@ -159,12 +184,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0342625f38dc2724",
+  "active": "1090d1e2b12eaeba",
   "lastOpenFiles": [
-    "Physique & Chimie/PHYSIQUE & CHIMIE.md",
+    "Physique & Chimie/Cours/Physique/Images/Pression fluides 2 altitudes.png",
+    "Physique & Chimie/Cours/Physique/Description d'un fluide au repos.md",
+    "Physique & Chimie/Cours/Physique/Images/Force pressante image.png",
+    "Physique & Chimie/Cours/Physique/Images",
+    "Physique & Chimie/Template.md",
     "Physique & Chimie/Programme de première.md",
-    "Physique & Chimie/TODO physique chimie.md",
+    "Physique & Chimie/PHYSIQUE & CHIMIE.md",
+    "Physique & Chimie/Cours/Physique",
     "Physique & Chimie/Cours/Chimie/Réaction/Oxydo-reduction.md",
+    "Physique & Chimie/TODO physique chimie.md",
     "Physique & Chimie/Cours/Chimie/Réaction/Pasted image 20240728130825.png",
     "Physique & Chimie/Cours/Chimie/Réaction/Pasted image 20240728130810.png",
     "Physique & Chimie/Liens utiles.md",
@@ -184,7 +215,6 @@
     "Physique & Chimie/Cours/Chimie/Matière",
     "Physique & Chimie/Cours/Chimie/Matière.md",
     "Physique & Chimie/Trucs que je ne connais pas.md",
-    "Physique & Chimie/Template.md",
     "Physique & Chimie/Cours/Chimie/Matière/Concentration massique.md",
     "Physique & Chimie/Cours/Chimie/TP",
     "Physique & Chimie/Cours/Chimie/Matière/Composition d'un atome.md",
@@ -192,21 +222,16 @@
     "Physique & Chimie/Cours/Chimie/TP/Dosage par étalonnage.md",
     "Physique & Chimie/Cours/Chimie/Matière/Nucleon.md",
     "Physique & Chimie/Cours/Chimie/Matière/La mole.md",
-    "Physique & Chimie/Cours/Chimie/Matière/Concentration molaire.md",
     "Physique & Chimie/Cours/Chimie",
     "Physique & Chimie/Cours",
     "Physique & Chimie",
     "Maths/Cours/Probabilité/Dénombrement/Dénombrement choix.canvas",
-    "PDF/Saint graal NSI.pdf",
     "NSI/Pasted image 20240618231400.png",
     "NSI/Pasted image 20240618230719.png",
     "NSI/Pasted image 20240618220050.png",
     "NSI/Pasted image 20240618215244.png",
     "NSI/Pasted image 20240618215139.png",
     "NSI/Pasted image 20240618214830.png",
-    "NSI/Pasted image 20240618214732.png",
-    "NSI/Pasted image 20240618214713.png",
-    "NSI/Algorithmie",
     "NSI/Images/Protocoles internet/Exemple de routage RIP.canvas",
     "NSI/Images/Exemple de routage RIP.canvas",
     "NSI/Exemple de routage RIP.canvas",
